@@ -47,12 +47,53 @@ FilterNotifier.addListener(function(action)
   }
 });
 
+// http://tools.btrll.com/wiki/Testing_RTBD_end-to-end_on_Stage#Testing
+//http://test.btrll.com/vast_monster?vast_url=http%3A%2F%2Fvast.bp3850308.btrll.com%2Fvast%2F3850308&content_vid=http%3A%2F%2Famscdn.btrll.com%2Fproduction%2F5798%2Fbrvideo.flv&w=300&h=250&autostart=on
+
+var adtech = {
+  "platform" : [
+  {
+    "handle": "brightroll",
+    "brand" : "BrightRoll Platform",
+    "lifecycle" : {
+    "player" : new RegExp('.*cache.btrll.com/jwplayer/.*','ig'),
+    "decision" : new RegExp('vast.*.btrll.com','ig'),
+    "video" : new RegExp('.*brxcdn.*.btrll.com/production/.*','ig'),
+    "metrics" : new RegExp('brxserv.*.btrll.com','ig')
+    }
+  },
+  { "handle": "tremor", "brand" : "Tremor Video" },
+  { "handle": "tubemogul", "brand" : "TubeMogul" },
+  { "handle": "adaptv", "brand" : "Adap.TV" },
+  { "handle": "adx", "brand" : "Google DoubleClick Ad Exchange" },
+  { "handle": "liverail", "brand" : "LiveRail Online Video Advertising Platform" },
+  { "handle": "specific", "brand" : "Specific Media" },
+  { "handle": "aol", "brand" : "AOL Advertising" },
+  { "handle": "spotx", "brand" : "SpotXchange: Online Video Advertising Platform" },
+  { "handle": "videology", "brand" : "Videology : Video Advertising Platform" },
+  ]
+};
+
+var urlCache = {};
+
+console.log("BRAND: "+JSON.stringify(adtech));
+
+function isVideoAd() {
+
+}
+
 function onBeforeRequest(url, type, page, frame)
 {
+  console.log("url "+url);
+  console.log("type "+type);
+  console.log("page "+page);
+  console.log("frame "+frame);
+
   if (isFrameWhitelisted(page, frame))
     return true;
 
   var docDomain = extractHostFromFrame(frame);
+  //console.log(docDomain);
   var filter = defaultMatcher.matchesAny(
     url,
     type == "sub_frame" ? "SUBDOCUMENT" : type.toUpperCase(),
@@ -70,7 +111,8 @@ function onBeforeRequest(url, type, page, frame)
   }
 
   FilterNotifier.triggerListeners("filter.hitCount", filter, 0, 0, page);
-  return !(filter instanceof BlockingFilter);
+  //return !(filter instanceof BlockingFilter);
+  return true;
 }
 
 ext.webRequest.onBeforeRequest.addListener(onBeforeRequest);
