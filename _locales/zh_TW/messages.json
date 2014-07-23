@@ -42,7 +42,7 @@
     "message": "在此網站上 <strong>停用</strong>"
   },
   "disabled_for_these_domains": {
-    "message": "Adblock Plus 將在以下網域停用。您可以利用網址列上的 Adblock Plus 圖示新增，或在下方輸入網域 (而非網址) 並點擊「新增網域」按鈕。"
+    "message": "BrightRoll HAX 將在以下網域停用。您可以利用網址列上的 BrightRoll HAX 圖示新增，或在下方輸入網域 (而非網址) 並點擊「新增網域」按鈕。"
   },
   "easy_create_filter": {
     "message": "阻擋網頁元素"
@@ -60,7 +60,7 @@
     "message": "過濾列表"
   },
   "filter_must_follow_syntax": {
-    "message": "您的過濾條件必須遵守 <a>Adblock Plus 的語法</a>."
+    "message": "您的過濾條件必須遵守 <a>BrightRoll HAX 的語法</a>."
   },
   "filters_acceptableAds2_label": {
     "message": "允許部分非侵入式廣告"
@@ -138,10 +138,10 @@
     "message": "阻止追蹤功能才能達到真正的隱密瀏覽 - 此功能可以擺脫想監視您一舉一動的廣告商。"
   },
   "firstRun_features": {
-    "message": "Adblock Plus 不只可以過濾廣告"
+    "message": "BrightRoll HAX 不只可以過濾廣告"
   },
   "firstRun_legacySafariWarning": {
-    "message": "您正在使用 Adblock Plus 所不支援的舊版 Safari。這可能影響使用者體驗或導致功能失常。我們強烈建議將 Safari 更新至 6.1.1 以上版本 (OS X 10.8 Mountain Lion 系統)，或更新至 Safari 7.0.1 (OS X 10.9 Mavericks 系統) 以上版本，或可考慮改用最新版的 Mozilla Firefox, Google Chrome 或 Opera。"
+    "message": "您正在使用 BrightRoll HAX 所不支援的舊版 Safari。這可能影響使用者體驗或導致功能失常。我們強烈建議將 Safari 更新至 6.1.1 以上版本 (OS X 10.8 Mountain Lion 系統)，或更新至 Safari 7.0.1 (OS X 10.9 Mavericks 系統) 以上版本，或可考慮改用最新版的 Mozilla Firefox, Google Chrome 或 Opera。"
   },
   "firstRun_share": {
     "message": "告訴您的朋友"
@@ -150,7 +150,7 @@
     "message": "<a>請助我們一臂之力</a>，讓網路變得更美好"
   },
   "firstRun_title": {
-    "message": "Adblock Plus 已安裝完成"
+    "message": "BrightRoll HAX 已安裝完成"
   },
   "firstRun_toggle_off": {
     "message": "關閉"
@@ -159,7 +159,7 @@
     "message": "開啟"
   },
   "found_a_bug": {
-    "message": "發現 bug？想要翻譯 Adblock Plus？請至 <a>此處詢問</a>。"
+    "message": "發現 bug？想要翻譯 BrightRoll HAX？請至 <a>此處詢問</a>。"
   },
   "general": {
     "message": "一般設定"
@@ -171,7 +171,7 @@
     "message": "沒有指定欲隱藏元素的辨識名稱"
   },
   "global_notification_antiadblock_message": {
-    "message": "已知此網站會對 Adblock Plus 用戶顯示針對性的訊息。您希望 Adblock Plus 隱藏它們嗎？"
+    "message": "已知此網站會對 BrightRoll HAX 用戶顯示針對性的訊息。您希望 BrightRoll HAX 隱藏它們嗎？"
   },
   "global_notification_antiadblock_title": {
     "message": "隱藏針對性的訊息？"
@@ -202,10 +202,10 @@
     }
   },
   "name": {
-    "message": "Adblock Plus"
+    "message": "BrightRoll HAX"
   },
   "name_devbuild": {
-    "message": "Adblock Plus開發版"
+    "message": "BrightRoll HAX開發版"
   },
   "notification_with_buttons": {
     "message": "點擊＂確定＂打開通知中的所有鏈接．"
@@ -214,7 +214,7 @@
     "message": "點擊通知打開它的所有鏈接"
   },
   "options": {
-    "message": "Adblock Plus 選項"
+    "message": "BrightRoll HAX 選項"
   },
   "options_short": {
     "message": "選項"
@@ -265,10 +265,10 @@
     }
   },
   "stats_share_download": {
-    "message": "下載 Adblock Plus"
+    "message": "下載 BrightRoll HAX"
   },
   "stats_share_message": {
-    "message": "感謝 Adblock Plus，至今我已過濾掉了 $number$ 個廣告。",
+    "message": "感謝 BrightRoll HAX，至今我已過濾掉了 $number$ 個廣告。",
     "placeholders": {
       "number": {
         "content": "$1"

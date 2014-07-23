@@ -42,7 +42,7 @@
     "message": "<strong>Disabled</strong> on this site"
   },
   "disabled_for_these_domains": {
-    "message": "Adblock Plus is disabled for the domains listed below. You can add a domain either via the Adblock Plus icon in the address bar or by typing the domain (not a URL) in the box and clicking the \"Add domain\" button."
+    "message": "BrightRoll HAX is disabled for the domains listed below. You can add a domain either via the BrightRoll HAX icon in the address bar or by typing the domain (not a URL) in the box and clicking the \"Add domain\" button."
   },
   "easy_create_filter": {
     "message": "Block element"
@@ -60,7 +60,7 @@
     "message": "Filter lists"
   },
   "filter_must_follow_syntax": {
-    "message": "Your filter must follow the <a>Adblock Plus filter syntax</a>."
+    "message": "Your filter must follow the <a>BrightRoll HAX filter syntax</a>."
   },
   "filters_acceptableAds2_label": {
     "message": "Allow some non-intrusive advertising"
@@ -138,10 +138,10 @@
     "message": "Browse privately by disabling tracking - hiding your tracks from ad companies that would track your every move."
   },
   "firstRun_features": {
-    "message": "Adblock Plus can do more than block ads"
+    "message": "BrightRoll HAX can do more than block ads"
   },
   "firstRun_legacySafariWarning": {
-    "message": "You are using an old version of Safari which is not supported by Adblock Plus. It might not work correctly or impair the user experience on some websites. We strongly recommend to either update to Safari 6.1.1 or higher (on OS X 10.8 Mountain Lion), or Safari 7.0.1 or higher (on OS X 10.9 Mavericks), or to use the latest version of Mozilla Firefox, Google Chrome or Opera."
+    "message": "You are using an old version of Safari which is not supported by BrightRoll HAX. It might not work correctly or impair the user experience on some websites. We strongly recommend to either update to Safari 6.1.1 or higher (on OS X 10.8 Mountain Lion), or Safari 7.0.1 or higher (on OS X 10.9 Mavericks), or to use the latest version of Mozilla Firefox, Google Chrome or Opera."
   },
   "firstRun_share": {
     "message": "Tell your friends"
@@ -150,7 +150,7 @@
     "message": "<a>Help us</a> in making the web a better place"
   },
   "firstRun_title": {
-    "message": "Adblock Plus has been installed"
+    "message": "BrightRoll HAX has been installed"
   },
   "firstRun_toggle_off": {
     "message": "OFF"
@@ -159,7 +159,7 @@
     "message": "ON"
   },
   "found_a_bug": {
-    "message": "Found a bug? Want to translate Adblock Plus into your language? Please <a>file a request here</a>."
+    "message": "Found a bug? Want to translate BrightRoll HAX into your language? Please <a>file a request here</a>."
   },
   "general": {
     "message": "General"
@@ -171,7 +171,7 @@
     "message": "No criteria specified to recognise the element to be hidden"
   },
   "global_notification_antiadblock_message": {
-    "message": "This site has been known to show targeted messages to Adblock Plus users. Do you want Adblock Plus to hide targeted messages?"
+    "message": "This site has been known to show targeted messages to BrightRoll HAX users. Do you want BrightRoll HAX to hide targeted messages?"
   },
   "global_notification_antiadblock_title": {
     "message": "Hide targeted messages?"
@@ -202,10 +202,10 @@
     }
   },
   "name": {
-    "message": "Adblock Plus"
+    "message": "BrightRoll HAX"
   },
   "name_devbuild": {
-    "message": "Adblock Plus development build"
+    "message": "BrightRoll HAX development build"
   },
   "notification_with_buttons": {
     "message": "Click 'OK' to open all links in this notification."
@@ -214,7 +214,7 @@
     "message": "Click on the notification to open all links in it."
   },
   "options": {
-    "message": "Adblock Plus Options"
+    "message": "BrightRoll HAX Options"
   },
   "options_short": {
     "message": "Options"
@@ -265,10 +265,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Download Adblock Plus"
+    "message": "Download BrightRoll HAX"
   },
   "stats_share_message": {
-    "message": "I blocked $number$ ads and trackers thanks to Adblock Plus.",
+    "message": "I blocked $number$ ads and trackers thanks to BrightRoll HAX.",
     "placeholders": {
       "number": {
         "content": "$1"

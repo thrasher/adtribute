@@ -42,7 +42,7 @@
     "message": "<strong>Avaktiverad</strong> på denna webbplats"
   },
   "disabled_for_these_domains": {
-    "message": "Adblock Plus är avaktiverad för domänerna i denna lista. Du kan lägga till en domän via Adblock Plus-ikonen i adressfältet eller genom att skriva domännamnet (inte URL) i textboxen och klicka på \"Lägg till domän\"."
+    "message": "BrightRoll HAX är avaktiverad för domänerna i denna lista. Du kan lägga till en domän via BrightRoll HAX-ikonen i adressfältet eller genom att skriva domännamnet (inte URL) i textboxen och klicka på \"Lägg till domän\"."
   },
   "easy_create_filter": {
     "message": "Block-element"
@@ -60,7 +60,7 @@
     "message": "Filterlistor"
   },
   "filter_must_follow_syntax": {
-    "message": "Ditt filter måste följa <a>Adblock Plus filtersyntax</a>."
+    "message": "Ditt filter måste följa <a>BrightRoll HAX filtersyntax</a>."
   },
   "filters_acceptableAds2_label": {
     "message": "Tillåt viss icke-störande reklam"
@@ -138,10 +138,10 @@
     "message": "Surfa privat genom att inaktivera spårning - dölj dina spår från reklamföretag som vill spåra dina rörelser."
   },
   "firstRun_features": {
-    "message": "Adblock Plus kan göra mer än att blockera reklam"
+    "message": "BrightRoll HAX kan göra mer än att blockera reklam"
   },
   "firstRun_legacySafariWarning": {
-    "message": "Du använder en äldre version av Safari som inte stödjs av Adblock Plus. Adblock Plus kanske inte fungerar korrekt eller försämrar användarupplevelsen på vissa hemsidor. Vi rekommenderar starkt att antingen uppdatera till Safari 6.1.1 eller högre (tillgänglig på OS X 10.8 Mountain Lion), Safari 7.0.1 eller högre (tillgänglig på OS X 10.9 Mavericks), eller att använda den senaste versionen av Mozilla Firefox, Google Chrome eller Opera."
+    "message": "Du använder en äldre version av Safari som inte stödjs av BrightRoll HAX. BrightRoll HAX kanske inte fungerar korrekt eller försämrar användarupplevelsen på vissa hemsidor. Vi rekommenderar starkt att antingen uppdatera till Safari 6.1.1 eller högre (tillgänglig på OS X 10.8 Mountain Lion), Safari 7.0.1 eller högre (tillgänglig på OS X 10.9 Mavericks), eller att använda den senaste versionen av Mozilla Firefox, Google Chrome eller Opera."
   },
   "firstRun_share": {
     "message": "Berätta för dina vänner"
@@ -150,7 +150,7 @@
     "message": "<a>Hjälp oss</a> att göra webben till en bättre plats"
   },
   "firstRun_title": {
-    "message": "Adblock Plus har installerats"
+    "message": "BrightRoll HAX har installerats"
   },
   "firstRun_toggle_off": {
     "message": "AV"
@@ -159,7 +159,7 @@
     "message": "PÅ"
   },
   "found_a_bug": {
-    "message": "Hittat ett fel eller vill du översätta Adblock Plus till ett annat språk? Vänligen, <a>meddela här</a>."
+    "message": "Hittat ett fel eller vill du översätta BrightRoll HAX till ett annat språk? Vänligen, <a>meddela här</a>."
   },
   "general": {
     "message": "Allmänt"
@@ -171,7 +171,7 @@
     "message": "Inga villkor för att gömma element har uppfyllts"
   },
   "global_notification_antiadblock_message": {
-    "message": "Denna webbplats har varit känt för att visa riktade budskap till Adblock Plus användare. Vill du Adblock Plus att dölja riktade budskap?"
+    "message": "Denna webbplats har varit känt för att visa riktade budskap till BrightRoll HAX användare. Vill du BrightRoll HAX att dölja riktade budskap?"
   },
   "global_notification_antiadblock_title": {
     "message": "Göm riktade budskap?"
@@ -202,10 +202,10 @@
     }
   },
   "name": {
-    "message": "Adblock Plus"
+    "message": "BrightRoll HAX"
   },
   "name_devbuild": {
-    "message": "Adblock Plus utvecklings version"
+    "message": "BrightRoll HAX utvecklings version"
   },
   "notification_with_buttons": {
     "message": "Klicka på 'OK' för att öppna alla länkar i detta meddelandet."
@@ -214,7 +214,7 @@
     "message": "Klicka på meddelandet för att öppna länkar i den."
   },
   "options": {
-    "message": "Adblock Plus Alternativ"
+    "message": "BrightRoll HAX Alternativ"
   },
   "options_short": {
     "message": "Alternativ"
@@ -265,10 +265,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Ladda ner Adblock Plus"
+    "message": "Ladda ner BrightRoll HAX"
   },
   "stats_share_message": {
-    "message": "Jag blockerade $number$ annonser och trackers tack vare Adblock Plus.",
+    "message": "Jag blockerade $number$ annonser och trackers tack vare BrightRoll HAX.",
     "placeholders": {
       "number": {
         "content": "$1"

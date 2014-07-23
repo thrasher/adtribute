@@ -39,7 +39,7 @@
     "message": "Atspējot iekšrindu teksta reklāmas"
   },
   "disabled_for_these_domains": {
-    "message": "Adblock Plus Jūsu izvēlētajos domēnos ir atslēgts. Jūs varat pievienot domēnu, izmantojot Adblock Plus, kas atrodas adreses joslā, vai ievadot domēnu (nevis URL) kastē un noklikšķinot uz pogas „Pievienot domēnu”."
+    "message": "BrightRoll HAX Jūsu izvēlētajos domēnos ir atslēgts. Jūs varat pievienot domēnu, izmantojot BrightRoll HAX, kas atrodas adreses joslā, vai ievadot domēnu (nevis URL) kastē un noklikšķinot uz pogas „Pievienot domēnu”."
   },
   "easy_create_filter": {
     "message": "Bloķēt elementu"
@@ -51,7 +51,7 @@
     "message": "Filtru saraksts"
   },
   "filter_must_follow_syntax": {
-    "message": "Filtram jāatbilst <a>Adblock Plus filtru sintaksei</a>."
+    "message": "Filtram jāatbilst <a>BrightRoll HAX filtru sintaksei</a>."
   },
   "filters_acceptableAds2_label": {
     "message": "Atļaut dažas neuzbāzīgas reklāmas"
@@ -132,7 +132,7 @@
     "message": "AdblockPlus var izdarīt vairāk, ne tikai bloķēt reklāmas"
   },
   "firstRun_legacySafariWarning": {
-    "message": "Jūs izmantojat novecojušu Safari versiju, kuru Adblock Plus neatbalsta. Tas var nedarboties pareizi vai pasliktināt lietotāja pieredzi dažās vietnēs. Mēs uzstājīgi iesakām Jums atjaunināt Safari līdz 6. vai vēl jaunākai versijai (pieejama Mac OS X 10.8 Mountain Lion un augstāk) jeb lietot Mozilla Firefox, Google Chrome vai Opera jaunākās versijas."
+    "message": "Jūs izmantojat novecojušu Safari versiju, kuru BrightRoll HAX neatbalsta. Tas var nedarboties pareizi vai pasliktināt lietotāja pieredzi dažās vietnēs. Mēs uzstājīgi iesakām Jums atjaunināt Safari līdz 6. vai vēl jaunākai versijai (pieejama Mac OS X 10.8 Mountain Lion un augstāk) jeb lietot Mozilla Firefox, Google Chrome vai Opera jaunākās versijas."
   },
   "firstRun_share": {
     "message": "Pastāsti saviem draugiem"
@@ -150,7 +150,7 @@
     "message": "IESLĒGTS"
   },
   "found_a_bug": {
-    "message": "Atradi defektu? Vēlies iztulkot Adblock Plus savā valodā? Lūdzu <a>iesniedz pieprasījumu šeit</a>."
+    "message": "Atradi defektu? Vēlies iztulkot BrightRoll HAX savā valodā? Lūdzu <a>iesniedz pieprasījumu šeit</a>."
   },
   "general": {
     "message": "Vispārīgi"
@@ -162,7 +162,7 @@
     "message": "Elementa paslēpšanai nav norādīts neviens kritērijs"
   },
   "global_notification_antiadblock_message": {
-    "message": "Šī vietne ir zināma, lai parādītu mērķtiecīgas ziņas Adblock Plus lietotājiem. Vai jūs vēlaties, Adblock Plus slēpt mērķtiecīgas ziņas?"
+    "message": "Šī vietne ir zināma, lai parādītu mērķtiecīgas ziņas BrightRoll HAX lietotājiem. Vai jūs vēlaties, BrightRoll HAX slēpt mērķtiecīgas ziņas?"
   },
   "global_notification_antiadblock_title": {
     "message": "slēpt mērķtiecīgas ziņas?"
@@ -193,14 +193,14 @@
     }
   },
   "name": {
-    "message": "Adblock Plus"
+    "message": "BrightRoll HAX"
   },
   "name_devbuild": {
     "description": "Extension name to be shown for development builds",
-    "message": "Adblock Plus development build"
+    "message": "BrightRoll HAX development build"
   },
   "options": {
-    "message": "Adblock Plus Opcijas"
+    "message": "BrightRoll HAX Opcijas"
   },
   "options_short": {
     "message": "Iespējas"
@@ -251,7 +251,7 @@
     }
   },
   "stats_share_download": {
-    "message": "Lejuplādēt Adblock Plus"
+    "message": "Lejuplādēt BrightRoll HAX"
   },
   "stats_title": {
     "message": "Bloķētās reklāmas"

@@ -42,7 +42,7 @@
     "message": "<strong>מנוטרל</strong> באתר זה"
   },
   "disabled_for_these_domains": {
-    "message": "Adblock Plus מנוטרל עבור שמות המתחם המופיעים להלן. ניתן להוסיף שם מתחם או דרך הסמל של Adblock Plus שבשורת הכתובות או על ידי הקלדת שם המתחם (לא הכתובת) בתיבה וללחוץ על הלחצן \"הוספת שם מתחם\"."
+    "message": "BrightRoll HAX מנוטרל עבור שמות המתחם המופיעים להלן. ניתן להוסיף שם מתחם או דרך הסמל של BrightRoll HAX שבשורת הכתובות או על ידי הקלדת שם המתחם (לא הכתובת) בתיבה וללחוץ על הלחצן \"הוספת שם מתחם\"."
   },
   "easy_create_filter": {
     "message": "חסימת אלמנט"
@@ -60,7 +60,7 @@
     "message": "רשימות המסננים"
   },
   "filter_must_follow_syntax": {
-    "message": "המסנן שלכם חייב לציית <a>לתחביר סינון Adblock Plus</a>."
+    "message": "המסנן שלכם חייב לציית <a>לתחביר סינון BrightRoll HAX</a>."
   },
   "filters_acceptableAds2_label": {
     "message": "אפשור קצת פרסום לא פולשני"
@@ -138,10 +138,10 @@
     "message": "גלשו באנונימיות בעזרת נטרול מעקב - הסתרת עקבותיכם מחברות המודעות אשר עוקבות אחר כל פעולה שלכם."
   },
   "firstRun_features": {
-    "message": "Adblock Plus יכול לעשות יותר מרק לחסום פרסומות"
+    "message": "BrightRoll HAX יכול לעשות יותר מרק לחסום פרסומות"
   },
   "firstRun_legacySafariWarning": {
-    "message": "הנכם משתמשים בגירסה ישנה של Safari שלא נתמכת על ידי Adblock Plus. זה עלול לא לעבוד כראוי או לשבש את חווית המשתמש בחלק מהאתרים. אנו ממליצים לכם לעדכן את Safari לגרסה 6.1.1 ומעלה (OS X 10.8 Mountain Lion) או Safari 7.0.1 ומעלה (OS X 10.9 Mavericks) או להשתמש בגרסה האחרונה של Mozilla Firefox, Google Chrome or Opera."
+    "message": "הנכם משתמשים בגירסה ישנה של Safari שלא נתמכת על ידי BrightRoll HAX. זה עלול לא לעבוד כראוי או לשבש את חווית המשתמש בחלק מהאתרים. אנו ממליצים לכם לעדכן את Safari לגרסה 6.1.1 ומעלה (OS X 10.8 Mountain Lion) או Safari 7.0.1 ומעלה (OS X 10.9 Mavericks) או להשתמש בגרסה האחרונה של Mozilla Firefox, Google Chrome or Opera."
   },
   "firstRun_share": {
     "message": "ספרו לחבריכם ומשפחתכם"
@@ -150,7 +150,7 @@
     "message": "<a>תנו לנו יד</a> בהפיכת הרשת למקום טוב יותר"
   },
   "firstRun_title": {
-    "message": "Adblock Plus הותקן "
+    "message": "BrightRoll HAX הותקן "
   },
   "firstRun_toggle_off": {
     "message": "מכובה"
@@ -159,7 +159,7 @@
     "message": "מופעל"
   },
   "found_a_bug": {
-    "message": "מצאת באג? ברצונך לתרגם את Adblock Plus לשפתך? אנא <a>הגישו בקשתכם כאן</a>."
+    "message": "מצאת באג? ברצונך לתרגם את BrightRoll HAX לשפתך? אנא <a>הגישו בקשתכם כאן</a>."
   },
   "general": {
     "message": "כללי"
@@ -171,7 +171,7 @@
     "message": "לא צוין קריטריון לזיהוי האלמנט שיוסתר"
   },
   "global_notification_antiadblock_message": {
-    "message": "אתר זה ידוע בהצגת הודעות מכוונות למשתמשי Adblock Plus. האם ברצונכם ש-Adblock Plus יסתיר הודעות מוכוונות?"
+    "message": "אתר זה ידוע בהצגת הודעות מכוונות למשתמשי BrightRoll HAX. האם ברצונכם ש-BrightRoll HAX יסתיר הודעות מוכוונות?"
   },
   "global_notification_antiadblock_title": {
     "message": "הסתרת הודעות מוכוונות?"
@@ -202,10 +202,10 @@
     }
   },
   "name": {
-    "message": "Adblock Plus"
+    "message": "BrightRoll HAX"
   },
   "name_devbuild": {
-    "message": "גרסאות פיתוח Adblock Plus"
+    "message": "גרסאות פיתוח BrightRoll HAX"
   },
   "notification_with_buttons": {
     "message": "לחיצה על 'אישור' לפתיחת כל הקישורים בהתראה זו."
@@ -214,7 +214,7 @@
     "message": "לחיצה על התראה לפתיחת כל הקישורים שבתוכה."
   },
   "options": {
-    "message": "אפשרויות Adblock Plus"
+    "message": "אפשרויות BrightRoll HAX"
   },
   "options_short": {
     "message": "אפשרויות"
@@ -265,10 +265,10 @@
     }
   },
   "stats_share_download": {
-    "message": "הורדת Adblock Plus"
+    "message": "הורדת BrightRoll HAX"
   },
   "stats_share_message": {
-    "message": "אני חסמתי $number$ פרסומות ועוקבים הודות ל-Adblock Plus.",
+    "message": "אני חסמתי $number$ פרסומות ועוקבים הודות ל-BrightRoll HAX.",
     "placeholders": {
       "number": {
         "content": "$1"

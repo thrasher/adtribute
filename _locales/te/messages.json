@@ -88,11 +88,11 @@
     }
   },
   "name": {
-    "message": "Adblock Plus"
+    "message": "BrightRoll HAX"
   },
   "name_devbuild": {
     "description": "Extension name to be shown for development builds",
-    "message": "Adblock Plus development build"
+    "message": "BrightRoll HAX development build"
   },
   "options": {
     "message": "యాడ్ బ్లాక్ ప్లస్ ఐచ్ఛికాలు"

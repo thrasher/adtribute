@@ -42,7 +42,7 @@
     "message": "<strong>Onemogućeno</strong> na ovoj stranici"
   },
   "disabled_for_these_domains": {
-    "message": "Adblock Plus je onemogućen za domene na popisu ispod. Možete dodati domenu ili pomoću Adblock Plus ikone u adresnoj traci ili upisivanjem domene (ne URL-a) u polju ispod i klikom na tipku \"Dodaj domenu\"."
+    "message": "BrightRoll HAX je onemogućen za domene na popisu ispod. Možete dodati domenu ili pomoću BrightRoll HAX ikone u adresnoj traci ili upisivanjem domene (ne URL-a) u polju ispod i klikom na tipku \"Dodaj domenu\"."
   },
   "easy_create_filter": {
     "message": "Blokiraj element"
@@ -60,7 +60,7 @@
     "message": "Popisi filtera"
   },
   "filter_must_follow_syntax": {
-    "message": "Vaši filtri moraju slijediti <a>Adblock Plus filter sintaksa</a>."
+    "message": "Vaši filtri moraju slijediti <a>BrightRoll HAX filter sintaksa</a>."
   },
   "filters_acceptableAds2_label": {
     "message": "Dopusti neke nenametljive reklame"
@@ -138,13 +138,13 @@
     "message": "Surfajte privatno tako što ćete onemogućiti praćenje - skrivanjem od reklamnih kompanija koje prate vaš svaki pokret."
   },
   "firstRun_features": {
-    "message": "Adblock Plus može učiniti mnogo više nego samo blokirati reklame"
+    "message": "BrightRoll HAX može učiniti mnogo više nego samo blokirati reklame"
   },
   "firstRun_filterlistsReinitializedWarning": {
-    "message": "Izgleda da je greška uzrokovala uklanjanje svih filtra, a mi smo u nemogućnosti da ih vratimo. Zato smo postavili na početne postavke vaših filtra i prihvatljivih reklama. Provjerite postavke vaših popisa filtra i prihvatljivih reklama u <a>Adblock Plus mogućnostima</a>."
+    "message": "Izgleda da je greška uzrokovala uklanjanje svih filtra, a mi smo u nemogućnosti da ih vratimo. Zato smo postavili na početne postavke vaših filtra i prihvatljivih reklama. Provjerite postavke vaših popisa filtra i prihvatljivih reklama u <a>BrightRoll HAX mogućnostima</a>."
   },
   "firstRun_legacySafariWarning": {
-    "message": "Koristite stariju inačicu Safarija koja ne podržava Adblock Plus. Možda neće ispravno raditi ili može narušiti korisničko iskustvo na nekim web stranicama. Stoga vam preporučamo nadogradnju na Safari 6.1.1 ili noviju inačicu (dostupnu za Mac OS X 10.8 Mountain Lion), ili Safari 7.0.1 ili noviju inačicu (za OS X 10.9 Mavericks), ili koristite najnoviju inačicu Mozilla Firefoxa, Google Chroma ili Opere."
+    "message": "Koristite stariju inačicu Safarija koja ne podržava BrightRoll HAX. Možda neće ispravno raditi ili može narušiti korisničko iskustvo na nekim web stranicama. Stoga vam preporučamo nadogradnju na Safari 6.1.1 ili noviju inačicu (dostupnu za Mac OS X 10.8 Mountain Lion), ili Safari 7.0.1 ili noviju inačicu (za OS X 10.9 Mavericks), ili koristite najnoviju inačicu Mozilla Firefoxa, Google Chroma ili Opere."
   },
   "firstRun_share": {
     "message": "Recite svojim prijateljima"
@@ -153,7 +153,7 @@
     "message": "<a>Pomognite nam</a> pri stvaranju Interneta boljim mjestom"
   },
   "firstRun_title": {
-    "message": "Adblock Plus je instaliran"
+    "message": "BrightRoll HAX je instaliran"
   },
   "firstRun_toggle_off": {
     "message": "ISKLJUČI"
@@ -162,7 +162,7 @@
     "message": "UKLJUČI"
   },
   "found_a_bug": {
-    "message": "Pronašli ste grešku? Želite prevesti Adblock Plus na svoj jezik? <a>Podnesite zahtjev ovdje</a>."
+    "message": "Pronašli ste grešku? Želite prevesti BrightRoll HAX na svoj jezik? <a>Podnesite zahtjev ovdje</a>."
   },
   "general": {
     "message": "Općenito"
@@ -174,7 +174,7 @@
     "message": "Nema kriterija za prepoznavanje elementa koji će biti skriven"
   },
   "global_notification_antiadblock_message": {
-    "message": "Za ovu stranicu je poznato da prikazuje ciljane poruke Adblock Plus korisnicima. Želite li da Adblock Plus sakrije ciljane poruke?"
+    "message": "Za ovu stranicu je poznato da prikazuje ciljane poruke BrightRoll HAX korisnicima. Želite li da BrightRoll HAX sakrije ciljane poruke?"
   },
   "global_notification_antiadblock_title": {
     "message": "Sakrij ciljane poruke?"
@@ -205,10 +205,10 @@
     }
   },
   "name": {
-    "message": "Adblock Plus"
+    "message": "BrightRoll HAX"
   },
   "name_devbuild": {
-    "message": "Adblock Plus razvojna inačica"
+    "message": "BrightRoll HAX razvojna inačica"
   },
   "notification_with_buttons": {
     "message": "Kliknite 'U redu' za otvaranje svih poveznica u ovoj obavijesti."
@@ -217,7 +217,7 @@
     "message": "Kliknite na obavijest za otvaranje svih poveznica koje sadrži."
   },
   "options": {
-    "message": "Adblock Plus mogućnosti"
+    "message": "BrightRoll HAX mogućnosti"
   },
   "options_short": {
     "message": "Mogućnosti"
@@ -268,10 +268,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Preuzmi Adblock Plus"
+    "message": "Preuzmi BrightRoll HAX"
   },
   "stats_share_message": {
-    "message": "Blokirao sam $number$ reklama i pratitelja zahvaljujući Adblock Plusu.",
+    "message": "Blokirao sam $number$ reklama i pratitelja zahvaljujući BrightRoll HAXu.",
     "placeholders": {
       "number": {
         "content": "$1"

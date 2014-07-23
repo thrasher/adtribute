@@ -42,7 +42,7 @@
     "message": "<strong>Nonaktifkan</strong> pada situs ini"
   },
   "disabled_for_these_domains": {
-    "message": "Adblock menonaktifkan daftar domain di bawah. Anda dapat menambah sebuah domain melalui ikon Adblock Plus pada alamat bar atau dengan mengetikan domain (tidak sebuah URL) di sebuah boks dan klik tombol \"Tambah Domain\""
+    "message": "Adblock menonaktifkan daftar domain di bawah. Anda dapat menambah sebuah domain melalui ikon BrightRoll HAX pada alamat bar atau dengan mengetikan domain (tidak sebuah URL) di sebuah boks dan klik tombol \"Tambah Domain\""
   },
   "easy_create_filter": {
     "message": "Blokir elemen"
@@ -60,7 +60,7 @@
     "message": "Daftar penyaring"
   },
   "filter_must_follow_syntax": {
-    "message": "Daftar penyaring Anda harus mengikuti <a>Sintaks Penyaring Adblock Plus</a>"
+    "message": "Daftar penyaring Anda harus mengikuti <a>Sintaks Penyaring BrightRoll HAX</a>"
   },
   "filters_acceptableAds2_label": {
     "message": "Ijinkan beberapa iklan yang bukan dan mengganggu"
@@ -138,10 +138,10 @@
     "message": "Menjelajah secara rahasia dengan menonaktifkan pelacakan - menyembunyikan jejak Anda dari perusahaan iklan yang akan melacak setiap langkah Anda."
   },
   "firstRun_features": {
-    "message": "Adblock Plus dapat melakukan lebih dari sekedar pemblokiran iklan"
+    "message": "BrightRoll HAX dapat melakukan lebih dari sekedar pemblokiran iklan"
   },
   "firstRun_legacySafariWarning": {
-    "message": "Anda menggunakan versi lama Safari yang tidak didukung oleh Adblock Plus. Mungkin tidak akan bekerja dengan baik atau bahkan mengganggu pengalaman pengguna di beberapa website. Kami sangat menyarankan sebaiknya memperbarui ke Safari 6.1.1 atau lebih tinggi (pada OS X 10.8 Mountain Lion), atau Safari 7.0.1 atau lebih tinggi (pada OS X 10.9 Mavericks), atau gunakan versi terbaru dari Mozilla Firefox, Google Chrome atau Opera."
+    "message": "Anda menggunakan versi lama Safari yang tidak didukung oleh BrightRoll HAX. Mungkin tidak akan bekerja dengan baik atau bahkan mengganggu pengalaman pengguna di beberapa website. Kami sangat menyarankan sebaiknya memperbarui ke Safari 6.1.1 atau lebih tinggi (pada OS X 10.8 Mountain Lion), atau Safari 7.0.1 atau lebih tinggi (pada OS X 10.9 Mavericks), atau gunakan versi terbaru dari Mozilla Firefox, Google Chrome atau Opera."
   },
   "firstRun_share": {
     "message": "Beritahu teman Anda"
@@ -150,7 +150,7 @@
     "message": "<a>Bantulah kami</a> dalam membuat web menjadi tempat yang lebih baik"
   },
   "firstRun_title": {
-    "message": "Adblock Plus telah diinstal"
+    "message": "BrightRoll HAX telah diinstal"
   },
   "firstRun_toggle_off": {
     "message": "OFF"
@@ -171,7 +171,7 @@
     "message": "Tidak ada kriteria yang ditentukan untuk mengenali unsur yang disembunyikan"
   },
   "global_notification_antiadblock_message": {
-    "message": "Situs ini dikenal sebagai penunjuk pesan yang dipilih terhadap pengguna Adblock Plus. Apakah anda ingin Adblock Plus menyembunyikan pesan yang dipilih?"
+    "message": "Situs ini dikenal sebagai penunjuk pesan yang dipilih terhadap pengguna BrightRoll HAX. Apakah anda ingin BrightRoll HAX menyembunyikan pesan yang dipilih?"
   },
   "global_notification_antiadblock_title": {
     "message": "Sembunyikan pesan yang dipilih?"
@@ -202,10 +202,10 @@
     }
   },
   "name": {
-    "message": "Adblock Plus"
+    "message": "BrightRoll HAX"
   },
   "name_devbuild": {
-    "message": "Struktur pengembangan Adblock Plus"
+    "message": "Struktur pengembangan BrightRoll HAX"
   },
   "notification_with_buttons": {
     "message": "Klik 'OK' untuk membuka semua link pada pemberitahuan ini."
@@ -214,7 +214,7 @@
     "message": "Klik pada pemberitahuan untuk membuka semua link di dalamnya."
   },
   "options": {
-    "message": "Pengaturan Adblock Plus"
+    "message": "Pengaturan BrightRoll HAX"
   },
   "options_short": {
     "message": "Opsi"
@@ -265,10 +265,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Download Adblock Plus"
+    "message": "Download BrightRoll HAX"
   },
   "stats_share_message": {
-    "message": "Saya memblokir $number$ iklan dan pelacak berkat Adblock Plus.",
+    "message": "Saya memblokir $number$ iklan dan pelacak berkat BrightRoll HAX.",
     "placeholders": {
       "number": {
         "content": "$1"

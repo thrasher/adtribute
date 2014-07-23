@@ -42,7 +42,7 @@
     "message": "<strong>Uitgeschakeld</strong> op deze site"
   },
   "disabled_for_these_domains": {
-    "message": "Adblock Plus is uitgeschakeld voor de hieronder vermelde domeinen. U kunt een domein toevoegen via het Adblock Plus logo in de adresbalk, of door het domein (geen URL) in het vak te typen en te klikken op \"Domein toevoegen\"."
+    "message": "BrightRoll HAX is uitgeschakeld voor de hieronder vermelde domeinen. U kunt een domein toevoegen via het BrightRoll HAX logo in de adresbalk, of door het domein (geen URL) in het vak te typen en te klikken op \"Domein toevoegen\"."
   },
   "easy_create_filter": {
     "message": "Element blokkeren"
@@ -60,7 +60,7 @@
     "message": "Filterlijsten"
   },
   "filter_must_follow_syntax": {
-    "message": "Je filter moet de <a>Adblock Plus filter syntax</a> volgen."
+    "message": "Je filter moet de <a>BrightRoll HAX filter syntax</a> volgen."
   },
   "filters_acceptableAds2_label": {
     "message": "Enkele niet-opdringerige advertenties toestaan"
@@ -138,10 +138,10 @@
     "message": "Browse privé door 'tracking' uit te schakelen - verberg uw gegevens voor advertentiebedrijven die al uw surfgedrag zouden volgen."
   },
   "firstRun_features": {
-    "message": "Adblock Plus kan meer doen dan advertenties blokkeren"
+    "message": "BrightRoll HAX kan meer doen dan advertenties blokkeren"
   },
   "firstRun_legacySafariWarning": {
-    "message": "U gebruikt een oude versie van Safari die niet wordt ondersteund door Adblock Plus. Sommige websites kunnen daardoor onjuist worden weergegeven. Wij raden u aan een update uit te voeren naar Safari versie 6.1.1 of hoger (voor Mac OS X 10.8 Mountain Lion), Safari versie 7.0.1 of hoger (voor Mac OS X 10.9 Mavericks) of de laatste versie van Mozilla Firefox, Google Chrome of Opera te gebruiken."
+    "message": "U gebruikt een oude versie van Safari die niet wordt ondersteund door BrightRoll HAX. Sommige websites kunnen daardoor onjuist worden weergegeven. Wij raden u aan een update uit te voeren naar Safari versie 6.1.1 of hoger (voor Mac OS X 10.8 Mountain Lion), Safari versie 7.0.1 of hoger (voor Mac OS X 10.9 Mavericks) of de laatste versie van Mozilla Firefox, Google Chrome of Opera te gebruiken."
   },
   "firstRun_share": {
     "message": "Vertel uw vrienden"
@@ -159,7 +159,7 @@
     "message": "AAN"
   },
   "found_a_bug": {
-    "message": "Heb je een bug gevonden? Wil je helpen Adblock Plus te vertalen naar je eigen taal? Dien <a>hier een verzoek in</a>."
+    "message": "Heb je een bug gevonden? Wil je helpen BrightRoll HAX te vertalen naar je eigen taal? Dien <a>hier een verzoek in</a>."
   },
   "general": {
     "message": "Algemeen"
@@ -171,7 +171,7 @@
     "message": "Geen criteria opgegeven om het te verbergen element te herkennen"
   },
   "global_notification_antiadblock_message": {
-    "message": "Deze website staat er om bekend dat ze berichten laat zien die op Adblock plus gebruikers gericht zijn. Wilt u dat Adblock Plus deze verbergt?"
+    "message": "Deze website staat er om bekend dat ze berichten laat zien die op Adblock plus gebruikers gericht zijn. Wilt u dat BrightRoll HAX deze verbergt?"
   },
   "global_notification_antiadblock_title": {
     "message": "Gerichte berichten verbergen?"
@@ -202,7 +202,7 @@
     }
   },
   "name": {
-    "message": "Adblock Plus"
+    "message": "BrightRoll HAX"
   },
   "name_devbuild": {
     "message": "AdBlock Plus experimentele versie"
@@ -214,7 +214,7 @@
     "message": "Klik op het bericht om de link te openen"
   },
   "options": {
-    "message": "Adblock Plus opties"
+    "message": "BrightRoll HAX opties"
   },
   "options_short": {
     "message": "Opties"
@@ -265,10 +265,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Adblock Plus downloaden"
+    "message": "BrightRoll HAX downloaden"
   },
   "stats_share_message": {
-    "message": "Ik heb $number$ advertenties en trackers geblokkeerd dankzij Adblock Plus.",
+    "message": "Ik heb $number$ advertenties en trackers geblokkeerd dankzij BrightRoll HAX.",
     "placeholders": {
       "number": {
         "content": "$1"

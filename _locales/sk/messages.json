@@ -42,7 +42,7 @@
     "message": "<strong>Zakázané</strong> na tejto stránke"
   },
   "disabled_for_these_domains": {
-    "message": "Adblock Plus je vypnutý v doménach uvedených nižšie. Môžete pridať doménu buď cez ikonu Adblock Plus v paneli s adresou alebo zadaním domény (nie URL) do poľa a kliknutím na tlačidlo \"Pridať doménu\"."
+    "message": "BrightRoll HAX je vypnutý v doménach uvedených nižšie. Môžete pridať doménu buď cez ikonu BrightRoll HAX v paneli s adresou alebo zadaním domény (nie URL) do poľa a kliknutím na tlačidlo \"Pridať doménu\"."
   },
   "easy_create_filter": {
     "message": "Blokovať prvok"
@@ -138,13 +138,13 @@
     "message": "Prechádzať súkromne vypnutím sledovania - skryť vaše skladby z reklamné spoločnosti, ktoré by sledovali každý váš pohyb."
   },
   "firstRun_features": {
-    "message": "Adblock Plus môže urobiť viac, ako blokovať reklamy"
+    "message": "BrightRoll HAX môže urobiť viac, ako blokovať reklamy"
   },
   "firstRun_filterlistsReinitializedWarning": {
-    "message": "Zdá sa, že problém spôsobil, že všetky filtre boli odstránené a nie sme schopní obnoviť zálohu. Preto sme museli resetovať vaše filtre a prijateľné nastavenia reklám. Prosím, skontrolujte filter zoznamov a prijateľné nastavenia reklamy v <a>Nastavenia Adblock Plus</a>."
+    "message": "Zdá sa, že problém spôsobil, že všetky filtre boli odstránené a nie sme schopní obnoviť zálohu. Preto sme museli resetovať vaše filtre a prijateľné nastavenia reklám. Prosím, skontrolujte filter zoznamov a prijateľné nastavenia reklamy v <a>Nastavenia BrightRoll HAX</a>."
   },
   "firstRun_legacySafariWarning": {
-    "message": "Používate starú verziu Safari, ktorá nepodporuje Adblock Plus. Nemusel by pracovať správne alebo  by mohol narušiť používateľské skúsenosti na niektorých webových stránkach. Dôrazne odporúčame aktualizovať na Safari 6.1.1 alebo vyšší (k dispozícii pre Mac OS X 10,8 Mountain Lion), alebo Safari 7.0.1 a vyššie (pre OS X 10.9 Mavericks), alebo použiť najnovšiu verziu Mozilla Firefox, Google Chrome alebo Opera."
+    "message": "Používate starú verziu Safari, ktorá nepodporuje BrightRoll HAX. Nemusel by pracovať správne alebo  by mohol narušiť používateľské skúsenosti na niektorých webových stránkach. Dôrazne odporúčame aktualizovať na Safari 6.1.1 alebo vyšší (k dispozícii pre Mac OS X 10,8 Mountain Lion), alebo Safari 7.0.1 a vyššie (pre OS X 10.9 Mavericks), alebo použiť najnovšiu verziu Mozilla Firefox, Google Chrome alebo Opera."
   },
   "firstRun_share": {
     "message": "Povedzte svojim priateľom"
@@ -153,7 +153,7 @@
     "message": "<a>Pomuožte nám</a> urobiť web lepším miestom"
   },
   "firstRun_title": {
-    "message": "Adblock Plus bol nainštalovaný"
+    "message": "BrightRoll HAX bol nainštalovaný"
   },
   "firstRun_toggle_off": {
     "message": "OFF"
@@ -162,7 +162,7 @@
     "message": "ON"
   },
   "found_a_bug": {
-    "message": "Nájdené chyba? Chcete preložiť Adblock Plus do vášho jazyka? Prosím <a> zadajte žiadosť tu</a>."
+    "message": "Nájdené chyba? Chcete preložiť BrightRoll HAX do vášho jazyka? Prosím <a> zadajte žiadosť tu</a>."
   },
   "general": {
     "message": "Všeobecné"
@@ -174,7 +174,7 @@
     "message": "Žiadne kritéria neboli špecifikované pre rozpoznanie prvku na skrytie"
   },
   "global_notification_antiadblock_message": {
-    "message": "Táto stránka bola známa zobrazením cielených správ pre používateľa Adblock Plus. Chcete, aby  Adblock Plus skryl cielené správy?"
+    "message": "Táto stránka bola známa zobrazením cielených správ pre používateľa BrightRoll HAX. Chcete, aby  BrightRoll HAX skryl cielené správy?"
   },
   "global_notification_antiadblock_title": {
     "message": "Skryť cielené správy?"
@@ -205,14 +205,14 @@
     }
   },
   "name": {
-    "message": "Adblock Plus"
+    "message": "BrightRoll HAX"
   },
   "name_devbuild": {
     "description": "Extension name to be shown for development builds",
-    "message": "Adblock Plus development build"
+    "message": "BrightRoll HAX development build"
   },
   "options": {
-    "message": "Adblock Plus nastavenia"
+    "message": "BrightRoll HAX nastavenia"
   },
   "options_short": {
     "message": "Možnosti"
@@ -263,10 +263,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Stiahnuť Adblock Plus"
+    "message": "Stiahnuť BrightRoll HAX"
   },
   "stats_share_message": {
-    "message": "Zablokoval som $number$ reklám a sledovačov vďaka Adblock Plus.",
+    "message": "Zablokoval som $number$ reklám a sledovačov vďaka BrightRoll HAX.",
     "placeholders": {
       "number": {
         "content": "$1"

@@ -126,7 +126,7 @@
     "message": "<a>Anna meile käsi</a> veebi muutmises paremaks kohaks"
   },
   "firstRun_title": {
-    "message": "Adblock Plus on paigaldatud"
+    "message": "BrightRoll HAX on paigaldatud"
   },
   "firstRun_toggle_off": {
     "message": "VÄLJAS"
@@ -135,7 +135,7 @@
     "message": "SEES"
   },
   "found_a_bug": {
-    "message": "Leidsid vea? Tahad tõlkida Adblock Plus'i enda keelde? Palun saada soovitus <a>siia</a>."
+    "message": "Leidsid vea? Tahad tõlkida BrightRoll HAX'i enda keelde? Palun saada soovitus <a>siia</a>."
   },
   "general": {
     "message": "Üldine"
@@ -172,10 +172,10 @@
     }
   },
   "name": {
-    "message": "Adblock Plus"
+    "message": "BrightRoll HAX"
   },
   "name_devbuild": {
-    "message": "Adblock Plus arendusväljalase"
+    "message": "BrightRoll HAX arendusväljalase"
   },
   "options": {
     "message": "AdBlock Plus Valikud"
@@ -223,7 +223,7 @@
     "message": "Lae AdBlock Plus"
   },
   "stats_share_message": {
-    "message": "Ma blokeeritud $number$ reklaamid ja jälgimisseadmed tänu Adblock Plus.",
+    "message": "Ma blokeeritud $number$ reklaamid ja jälgimisseadmed tänu BrightRoll HAX.",
     "placeholders": {
       "number": {
         "content": "$1"

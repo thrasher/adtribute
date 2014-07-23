@@ -13,3 +13,6 @@ for FILE in $FILES ; do
 	sips -z $HEIGHT $WIDTH br.png
 	mv br.png $FILE
 done
+
+# rebrand things to BR
+find . -type f | grep -v -e git -e png -e gif -e jpg -e otf | xargs sed -i "" "s/Adblock Plus/BrightRoll HAX/g"

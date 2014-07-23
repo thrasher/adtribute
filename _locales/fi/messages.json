@@ -42,7 +42,7 @@
     "message": "<strong>Poistettu</strong> tältä sivulta"
   },
   "disabled_for_these_domains": {
-    "message": "Adblock Plus ei estä mainoksia sivuilla jotka ovat alla listattuna. Voit lisätä sivun joko Adblock Plus kuvakkeesta osoiteriviltä tai kirjoittamalla sivun (ei osoitetta) laatikkoon ja klikkaamalla \"lisää sivu\" nappia."
+    "message": "BrightRoll HAX ei estä mainoksia sivuilla jotka ovat alla listattuna. Voit lisätä sivun joko BrightRoll HAX kuvakkeesta osoiteriviltä tai kirjoittamalla sivun (ei osoitetta) laatikkoon ja klikkaamalla \"lisää sivu\" nappia."
   },
   "easy_create_filter": {
     "message": "Estä elementti"
@@ -60,7 +60,7 @@
     "message": "Suodatinlistat"
   },
   "filter_must_follow_syntax": {
-    "message": "Suodattimesi on noudatettava <a>Adblock Plus suodattimen syntaksia</a>."
+    "message": "Suodattimesi on noudatettava <a>BrightRoll HAX suodattimen syntaksia</a>."
   },
   "filters_acceptableAds2_label": {
     "message": "Salli osa ei-häiritsevästä mainonnasta"
@@ -138,13 +138,13 @@
     "message": "Selaa yksityisesti estämällä seuraaminen - piilota jälkesi mainosyhtiöiltä, jotka muuten seuraavat jokaista liikettäsi."
   },
   "firstRun_features": {
-    "message": "Adblock Plus voi tehdä muutakin kuin vain estää mainoksia"
+    "message": "BrightRoll HAX voi tehdä muutakin kuin vain estää mainoksia"
   },
   "firstRun_filterlistsReinitializedWarning": {
-    "message": "Näyttäisi siltä, että ongelman takia kaikki suodattimet on poistettu ja niiden palauttaminen varmuuskopiosta epäonnistui. Tämän vuoksi kaikki suodattimien ja hyväksyttävien mainoksien asetukset on palautettu alkuarvoihin. Tarkasta suodatinlistat ja hyväksyttävien mainosten asetukset <a>Adblock Plussan asetuksista</a>."
+    "message": "Näyttäisi siltä, että ongelman takia kaikki suodattimet on poistettu ja niiden palauttaminen varmuuskopiosta epäonnistui. Tämän vuoksi kaikki suodattimien ja hyväksyttävien mainoksien asetukset on palautettu alkuarvoihin. Tarkasta suodatinlistat ja hyväksyttävien mainosten asetukset <a>BrightRoll HAXsan asetuksista</a>."
   },
   "firstRun_legacySafariWarning": {
-    "message": "Käytössäsi on Safarin vanha versio, jota Adblock Plus ei tue. Se ei välttämättä toimi oikein tai saattaa heikentää joidenkin sivustojen käyttökokemusta. Suosittelemme vahvasti päivittämään Safari 6.1.1:een tai uudempaan (OSX 10.8 Mountain Lion), tai Safari 7.0.1:een tai uudempaan (OSX 10.9 Mavericks), tai käyttämään Mozilla Firefoxin, Google Chromen tai Operan uusinta versiota."
+    "message": "Käytössäsi on Safarin vanha versio, jota BrightRoll HAX ei tue. Se ei välttämättä toimi oikein tai saattaa heikentää joidenkin sivustojen käyttökokemusta. Suosittelemme vahvasti päivittämään Safari 6.1.1:een tai uudempaan (OSX 10.8 Mountain Lion), tai Safari 7.0.1:een tai uudempaan (OSX 10.9 Mavericks), tai käyttämään Mozilla Firefoxin, Google Chromen tai Operan uusinta versiota."
   },
   "firstRun_share": {
     "message": "Kerro ystävillesi"
@@ -153,7 +153,7 @@
     "message": "<a>Auta meitä</a> tekemään verkosta parempi paikka"
   },
   "firstRun_title": {
-    "message": "Adblock Plus on asennettu"
+    "message": "BrightRoll HAX on asennettu"
   },
   "firstRun_toggle_off": {
     "message": "OFF"
@@ -162,7 +162,7 @@
     "message": "ON"
   },
   "found_a_bug": {
-    "message": "Löysitkö vian? Haluatko kääntää Adblock Plusin omalle kielellesi? Ole hyvä ja <a>kirjoita hakemus täällä</a>."
+    "message": "Löysitkö vian? Haluatko kääntää BrightRoll HAXin omalle kielellesi? Ole hyvä ja <a>kirjoita hakemus täällä</a>."
   },
   "general": {
     "message": "Yleiset"
@@ -174,7 +174,7 @@
     "message": "Piilotettavaa elementtiä määrittelevää tunnistetta ei annettu"
   },
   "global_notification_antiadblock_message": {
-    "message": "Tämän sivun tiedetään näyttäneen kohdennettuja viestejä Adblock Plussan käyttäjille. Haluatko, että Adblock Plus piilottaa kohdennetut viestit?"
+    "message": "Tämän sivun tiedetään näyttäneen kohdennettuja viestejä BrightRoll HAXsan käyttäjille. Haluatko, että BrightRoll HAX piilottaa kohdennetut viestit?"
   },
   "global_notification_antiadblock_title": {
     "message": "Piilotetaanko kohdennetut viestit?"
@@ -205,10 +205,10 @@
     }
   },
   "name": {
-    "message": "Adblock Plus"
+    "message": "BrightRoll HAX"
   },
   "name_devbuild": {
-    "message": "Adblock Plus kehittäjän versio"
+    "message": "BrightRoll HAX kehittäjän versio"
   },
   "notification_with_buttons": {
     "message": "Valitse 'OK' aukaeksesi kaikki linkit tässä ilmoituksessa."
@@ -217,7 +217,7 @@
     "message": "Napsauttamalla ilmoitusta voit avata kaikki linkit siitä."
   },
   "options": {
-    "message": "Adblock Plus asetukset"
+    "message": "BrightRoll HAX asetukset"
   },
   "options_short": {
     "message": "Asetukset"
@@ -268,10 +268,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Lataa Adblock Plus"
+    "message": "Lataa BrightRoll HAX"
   },
   "stats_share_message": {
-    "message": "Estin $number$ mainosta ja trackeriä kiitos Adblock Plus;an.",
+    "message": "Estin $number$ mainosta ja trackeriä kiitos BrightRoll HAX;an.",
     "placeholders": {
       "number": {
         "content": "$1"

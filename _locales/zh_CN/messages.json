@@ -42,7 +42,7 @@
     "message": "对当前网站<strong>禁用</strong>"
   },
   "disabled_for_these_domains": {
-    "message": "Adblock Plus 不过滤下面列出的域。您可以通过点击地址栏的 Adblock Plus 图标进行添加，也可在下面输入域名（非URL）然后点击“添加域名”。"
+    "message": "BrightRoll HAX 不过滤下面列出的域。您可以通过点击地址栏的 BrightRoll HAX 图标进行添加，也可在下面输入域名（非URL）然后点击“添加域名”。"
   },
   "easy_create_filter": {
     "message": "拦截当前网站某个元素"
@@ -60,7 +60,7 @@
     "message": "过滤清单"
   },
   "filter_must_follow_syntax": {
-    "message": "您的过滤规则必须遵循 <a> Adblock Plus 过滤规则语法</a>。"
+    "message": "您的过滤规则必须遵循 <a> BrightRoll HAX 过滤规则语法</a>。"
   },
   "filters_acceptableAds2_label": {
     "message": "允许一些非侵入式广告"
@@ -138,13 +138,13 @@
     "message": "隐秘浏览避开跟踪 - 摆脱广告公司跟踪你的一举一动。"
   },
   "firstRun_features": {
-    "message": "Adblock Plus 不仅仅能拦截广告"
+    "message": "BrightRoll HAX 不仅仅能拦截广告"
   },
   "firstRun_filterlistsReinitializedWarning": {
-    "message": "似乎因一个问题导致所有过滤规则已被删除，并且我们无法从备份中恢复。因此，我们不得不重置您的过滤规则和可接受广告设置。请在 <a>Adblock Plus 选项</a> 中检查您的过滤规则列表和可接受广告设置。"
+    "message": "似乎因一个问题导致所有过滤规则已被删除，并且我们无法从备份中恢复。因此，我们不得不重置您的过滤规则和可接受广告设置。请在 <a>BrightRoll HAX 选项</a> 中检查您的过滤规则列表和可接受广告设置。"
   },
   "firstRun_legacySafariWarning": {
-    "message": "Adblock Plus 不支持您正在使用的 Safari 旧版本。这可能导致无法正常工作，或者损害一些网站上的用户体验。我们强烈建议您更新到 Safari 6.1.1 或更高版本（基于 OS X 10.8 Mountain Lion），或 Safari 7.0.1 或更高版本（基于 OS X 10.9 Mavericks），或者使用 Mozilla Firefox、Google Chrome 或 Opera 浏览器的最新版本。"
+    "message": "BrightRoll HAX 不支持您正在使用的 Safari 旧版本。这可能导致无法正常工作，或者损害一些网站上的用户体验。我们强烈建议您更新到 Safari 6.1.1 或更高版本（基于 OS X 10.8 Mountain Lion），或 Safari 7.0.1 或更高版本（基于 OS X 10.9 Mavericks），或者使用 Mozilla Firefox、Google Chrome 或 Opera 浏览器的最新版本。"
   },
   "firstRun_share": {
     "message": "告诉你的朋友"
@@ -153,7 +153,7 @@
     "message": "<a>给我们一点支持</a>，让网络变得更加美好"
   },
   "firstRun_title": {
-    "message": "Adblock Plus 已安装"
+    "message": "BrightRoll HAX 已安装"
   },
   "firstRun_toggle_off": {
     "message": "关闭"
@@ -162,7 +162,7 @@
     "message": "开启"
   },
   "found_a_bug": {
-    "message": "发现错误？想要帮忙翻译Adblock Plus？请前往<a>此处</a>"
+    "message": "发现错误？想要帮忙翻译BrightRoll HAX？请前往<a>此处</a>"
   },
   "general": {
     "message": "常规"
@@ -174,7 +174,7 @@
     "message": "没有指定要隐藏元素的识别标准"
   },
   "global_notification_antiadblock_message": {
-    "message": "此网站已知会对 Adblock Plus 用户显示针对性的信息。您想让 Adblock Plus 隐藏针对性的信息吗？"
+    "message": "此网站已知会对 BrightRoll HAX 用户显示针对性的信息。您想让 BrightRoll HAX 隐藏针对性的信息吗？"
   },
   "global_notification_antiadblock_title": {
     "message": "隐藏针对性的信息？"
@@ -205,10 +205,10 @@
     }
   },
   "name": {
-    "message": "Adblock Plus"
+    "message": "BrightRoll HAX"
   },
   "name_devbuild": {
-    "message": "Adblock Plus 开发版"
+    "message": "BrightRoll HAX 开发版"
   },
   "notification_with_buttons": {
     "message": "点击“确定”打开此通知中的所有链接。"
@@ -268,10 +268,10 @@
     }
   },
   "stats_share_download": {
-    "message": "下载 Adblock Plus"
+    "message": "下载 BrightRoll HAX"
   },
   "stats_share_message": {
-    "message": "感谢Adblock Plus拦截了 $number$ 个广告和跟踪行为。",
+    "message": "感谢BrightRoll HAX拦截了 $number$ 个广告和跟踪行为。",
     "placeholders": {
       "number": {
         "content": "$1"

@@ -60,7 +60,7 @@
     "message": "Llista de filtres"
   },
   "filter_must_follow_syntax": {
-    "message": "El vostre filtre ha de seguir la <a>Sintaxi de filtres d'Adblock Plus</a>."
+    "message": "El vostre filtre ha de seguir la <a>Sintaxi de filtres d'BrightRoll HAX</a>."
   },
   "filters_acceptableAds2_label": {
     "message": "Permet la publicitat no intrusiva"
@@ -138,13 +138,13 @@
     "message": "Navegar de forma privada mitjançant la desactivació del seguiment – amagant el vostre rastre a les companyies de publicitat, que us seguirien encara més."
   },
   "firstRun_features": {
-    "message": "Adblock Plus pot fer molt més que bloquejar anuncis"
+    "message": "BrightRoll HAX pot fer molt més que bloquejar anuncis"
   },
   "firstRun_filterlistsReinitializedWarning": {
-    "message": "Sembla que un problema ha causat que tots els filtres es suprimeixin, però hem pogut restaurar una còpia de seguretat. Durant aquest procés, també s'ha restaurat els filtres i la configuració d'anuncis acceptable. Verifiqueu que la configuració actual és la desitjada, mitjançant les <a>«Preferències del filtre»</a> de l'Adblock Plus."
+    "message": "Sembla que un problema ha causat que tots els filtres es suprimeixin, però hem pogut restaurar una còpia de seguretat. Durant aquest procés, també s'ha restaurat els filtres i la configuració d'anuncis acceptable. Verifiqueu que la configuració actual és la desitjada, mitjançant les <a>«Preferències del filtre»</a> de l'BrightRoll HAX."
   },
   "firstRun_legacySafariWarning": {
-    "message": "Estàs usant una versió antiga de Safari que no es troba suportada per Adblock Plus."
+    "message": "Estàs usant una versió antiga de Safari que no es troba suportada per BrightRoll HAX."
   },
   "firstRun_share": {
     "message": "Digueu-ho a les vostres amistats"
@@ -174,7 +174,7 @@
     "message": "Cap criteri especificat per reconeixes l'element a amagar"
   },
   "global_notification_antiadblock_message": {
-    "message": "Aquesta web ha sigut coneguda per mostrar missatges dirigits a usuaris de Adblock Plus. Vols que Adblock Plus amague els missatges dirigits?"
+    "message": "Aquesta web ha sigut coneguda per mostrar missatges dirigits a usuaris de BrightRoll HAX. Vols que BrightRoll HAX amague els missatges dirigits?"
   },
   "global_notification_antiadblock_title": {
     "message": "Amagar missatges dirigits?"
@@ -208,7 +208,7 @@
     "message": "AdBlock Plus"
   },
   "name_devbuild": {
-    "message": "Adblock Plus (versió en desenvolupament)"
+    "message": "BrightRoll HAX (versió en desenvolupament)"
   },
   "notification_with_buttons": {
     "message": "Feu clic a «D'acord» per obrir tots els enllaços en aquesta notificació."
@@ -217,7 +217,7 @@
     "message": "Feu clic a la notificació per obrir-ne tots els enllaços."
   },
   "options": {
-    "message": "Opcions de l'Adblock Plus"
+    "message": "Opcions de l'BrightRoll HAX"
   },
   "options_short": {
     "message": "Opcions"
@@ -268,10 +268,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Baixa l'Adblock Plus"
+    "message": "Baixa l'BrightRoll HAX"
   },
   "stats_share_message": {
-    "message": "He blocat $number$ anuncis i rastrejadors gràcies a Adblock Plus.",
+    "message": "He blocat $number$ anuncis i rastrejadors gràcies a BrightRoll HAX.",
     "placeholders": {
       "number": {
         "content": "$1"

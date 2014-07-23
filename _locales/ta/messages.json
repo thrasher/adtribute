@@ -33,7 +33,7 @@
     "message": "வரி விளம்பரங்களை முடக்கு"
   },
   "disabled_for_these_domains": {
-    "message": "கீழே பட்டியலிடப்பட்டுள்ள களங்களுக்கு Adblock Plus முடக்கப்பட்டுள்ளது. களம் ஒன்றை சேர்க்க: முகவரிப் பட்டியில் உள்ள Adblock Plus படவுரு வழியாகவோ அல்லது பெட்டியில் களத்தை (URL அல்ல) தட்டச்சு செய்து   \"களத்தை சேர்\" பொத்தானை சொடுக்குவது மூலமாகவோ நீங்கள் சேர்க்கலாம்."
+    "message": "கீழே பட்டியலிடப்பட்டுள்ள களங்களுக்கு BrightRoll HAX முடக்கப்பட்டுள்ளது. களம் ஒன்றை சேர்க்க: முகவரிப் பட்டியில் உள்ள BrightRoll HAX படவுரு வழியாகவோ அல்லது பெட்டியில் களத்தை (URL அல்ல) தட்டச்சு செய்து   \"களத்தை சேர்\" பொத்தானை சொடுக்குவது மூலமாகவோ நீங்கள் சேர்க்கலாம்."
   },
   "edit_filters_raw": {
     "message": "வடிகட்டிகளை வெறும் உரையாக திருத்து"
@@ -42,10 +42,10 @@
     "message": "வடிகட்டி பட்டியல்கள்"
   },
   "filter_must_follow_syntax": {
-    "message": "உங்கள் Adblock Plus வடிகட்டி பின்வரும் இலக்கணத்தை பயன்படுத்தவேண்டும்: <a> </a>."
+    "message": "உங்கள் BrightRoll HAX வடிகட்டி பின்வரும் இலக்கணத்தை பயன்படுத்தவேண்டும்: <a> </a>."
   },
   "found_a_bug": {
-    "message": "ஏதேனும் பிழையா? உங்கள் மொழிக்கு Adblock Plus மொழிபெயர்க்கபட வேண்டுமா? தயவுசெய்து கோரிக்கையை <a> இங்கே பதிக்கவும் </a>."
+    "message": "ஏதேனும் பிழையா? உங்கள் மொழிக்கு BrightRoll HAX மொழிபெயர்க்கபட வேண்டுமா? தயவுசெய்து கோரிக்கையை <a> இங்கே பதிக்கவும் </a>."
   },
   "general": {
     "message": "பொது"
@@ -70,14 +70,14 @@
     }
   },
   "name": {
-    "message": "Adblock Plus"
+    "message": "BrightRoll HAX"
   },
   "name_devbuild": {
     "description": "Extension name to be shown for development builds",
-    "message": "Adblock Plus development build"
+    "message": "BrightRoll HAX development build"
   },
   "options": {
-    "message": "Adblock Plus விருப்பங்கள்"
+    "message": "BrightRoll HAX விருப்பங்கள்"
   },
   "out_of_date_lists": {
     "message": "பழைய பட்டியல்கள் அவ்வப்போது புதுப்பிக்கப்படும்."
@@ -113,10 +113,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Adblock Plusஐ பதிவிறக்கவும்"
+    "message": "BrightRoll HAXஐ பதிவிறக்கவும்"
   },
   "stats_share_message": {
-    "message": "நான் $number$ விளம்பரங்கள் மற்றும் trackerகளை தடுதுள்ளேன். நன்றி Adblock Plus.",
+    "message": "நான் $number$ விளம்பரங்கள் மற்றும் trackerகளை தடுதுள்ளேன். நன்றி BrightRoll HAX.",
     "placeholders": {
       "number": {
         "content": "$1"

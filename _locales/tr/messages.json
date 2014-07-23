@@ -42,7 +42,7 @@
     "message": "Bu sitede <strong>devre dışı</strong>"
   },
   "disabled_for_these_domains": {
-    "message": "Adblock Plus aşağıdaki adresler için devre dışı bırakıldı. Adresleri adres çubuğundaki Adblock simgesinden ekleyebilir veya alan adını (URL'yi değil) kutucuğa yazıp \"Alan adını ekle\" butonuna tıklayabilirsin."
+    "message": "BrightRoll HAX aşağıdaki adresler için devre dışı bırakıldı. Adresleri adres çubuğundaki Adblock simgesinden ekleyebilir veya alan adını (URL'yi değil) kutucuğa yazıp \"Alan adını ekle\" butonuna tıklayabilirsin."
   },
   "easy_create_filter": {
     "message": "Öğeyi Engelle"
@@ -60,7 +60,7 @@
     "message": "Filtre listesi"
   },
   "filter_must_follow_syntax": {
-    "message": "Eklediğiniz filtre <a>Adblock Plus filtre kurallarına</a> uymak zorundadır."
+    "message": "Eklediğiniz filtre <a>BrightRoll HAX filtre kurallarına</a> uymak zorundadır."
   },
   "filters_acceptableAds2_label": {
     "message": "Rahatsız etmeyen bazı reklamlara izin ver"
@@ -138,13 +138,13 @@
     "message": "Her hareketinizi izleyen reklam şirketlerin adımlarınızı gizleyin. İnternette izlenmeyi devre dışı bırakarak gezin."
   },
   "firstRun_features": {
-    "message": "Adblock Plus reklamları engellemekten daha fazlasını yapabilir"
+    "message": "BrightRoll HAX reklamları engellemekten daha fazlasını yapabilir"
   },
   "firstRun_filterlistsReinitializedWarning": {
-    "message": "Görünüşe göre bir sorun tüm filtrelerinizin kaldırılmasına neden olmuş ve bir yedeği geri yükleyemiyoruz. Bu yüzden filtrelerinizi ve Kabul Edilebilir Reklamlar ayarlarınızı sıfırlamamız gerekiyordu. Lütfen <a>Adblock Plus seçenekleri</a> bölümünde filtre listelerinizi ve Kabul Edilebilir Reklamlar ayarlarınızı denetleyin."
+    "message": "Görünüşe göre bir sorun tüm filtrelerinizin kaldırılmasına neden olmuş ve bir yedeği geri yükleyemiyoruz. Bu yüzden filtrelerinizi ve Kabul Edilebilir Reklamlar ayarlarınızı sıfırlamamız gerekiyordu. Lütfen <a>BrightRoll HAX seçenekleri</a> bölümünde filtre listelerinizi ve Kabul Edilebilir Reklamlar ayarlarınızı denetleyin."
   },
   "firstRun_legacySafariWarning": {
-    "message": "Safari'nin Adblock Plus tarafından desteklenmeyen eski bir sürümünü kullanıyorsunuz. Uygulama doğru şekilde çalışmayabilir veya bazı internet sitelerinde kullanıcı deneyimini olumsuz etkileyebilir. Sürümünüzü Safari 6.1.1 veya daha yüksek  (OS X 10.8 Mountain Lion için), ya da Safari 7.0.1 veya daha yüksek (OS X 10.9 Mavericks için) bir sürüme yükseltmenizi, veya Mozilla Firefox, Google  Chrome ya da Opera'nın en son sürümünü kullanmanızı önemle tavsiye ederiz."
+    "message": "Safari'nin BrightRoll HAX tarafından desteklenmeyen eski bir sürümünü kullanıyorsunuz. Uygulama doğru şekilde çalışmayabilir veya bazı internet sitelerinde kullanıcı deneyimini olumsuz etkileyebilir. Sürümünüzü Safari 6.1.1 veya daha yüksek  (OS X 10.8 Mountain Lion için), ya da Safari 7.0.1 veya daha yüksek (OS X 10.9 Mavericks için) bir sürüme yükseltmenizi, veya Mozilla Firefox, Google  Chrome ya da Opera'nın en son sürümünü kullanmanızı önemle tavsiye ederiz."
   },
   "firstRun_share": {
     "message": "Arkadaşlarınıza bahsedin"
@@ -153,7 +153,7 @@
     "message": "İnterneti daha iyi bir yer yapabilmek için <a>bize elinizi uzatın</a>"
   },
   "firstRun_title": {
-    "message": "Adblock Plus yüklendi"
+    "message": "BrightRoll HAX yüklendi"
   },
   "firstRun_toggle_off": {
     "message": "KAPALI"
@@ -162,7 +162,7 @@
     "message": "AÇIK"
   },
   "found_a_bug": {
-    "message": "Hata mı buldunuz? Adblock Plus'ı kendi dilinize mi çevirmek istiyorsunuz? Lütfen <a>buradan dosya isteyiniz</a>."
+    "message": "Hata mı buldunuz? BrightRoll HAX'ı kendi dilinize mi çevirmek istiyorsunuz? Lütfen <a>buradan dosya isteyiniz</a>."
   },
   "general": {
     "message": "Genel"
@@ -174,7 +174,7 @@
     "message": "Gizlenecek bileşeni anlamak için hiçbir ölçüt belirtilmedi"
   },
   "global_notification_antiadblock_message": {
-    "message": "Bu site Adblock Plus kullanıcılarına  hedeflenen iletiler göstermesiyle bilinir. Adblock Plus'ın hedeflenen iletileri gizlemesini istiyor musunuz?"
+    "message": "Bu site BrightRoll HAX kullanıcılarına  hedeflenen iletiler göstermesiyle bilinir. BrightRoll HAX'ın hedeflenen iletileri gizlemesini istiyor musunuz?"
   },
   "global_notification_antiadblock_title": {
     "message": "Hedeflenen iletileri gizlemek istiyor musunuz?"
@@ -205,10 +205,10 @@
     }
   },
   "name": {
-    "message": "Adblock Plus"
+    "message": "BrightRoll HAX"
   },
   "name_devbuild": {
-    "message": "Adblock Plus geliştirme sürümü"
+    "message": "BrightRoll HAX geliştirme sürümü"
   },
   "notification_with_buttons": {
     "message": "Bu bildirimdeki tüm bağlantıları açmak için 'Tamam' düğmesine tıklayın."
@@ -217,7 +217,7 @@
     "message": "Bildirimdeki tüm bağlantıları açmak için bildirim üzerine tıklayın."
   },
   "options": {
-    "message": "Adblock Plus Seçenekleri"
+    "message": "BrightRoll HAX Seçenekleri"
   },
   "options_short": {
     "message": "Seçenekler"
@@ -268,10 +268,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Adblock Plus'ı indir"
+    "message": "BrightRoll HAX'ı indir"
   },
   "stats_share_message": {
-    "message": "$number$ reklamı ve izleyiciyi Adblock Plus sayesinde engelledim.",
+    "message": "$number$ reklamı ve izleyiciyi BrightRoll HAX sayesinde engelledim.",
     "placeholders": {
       "number": {
         "content": "$1"

@@ -27,13 +27,13 @@
     "message": "După închiderea acestui pop-up, clic (sau clic-dreapta) pe un element de pe pagină."
   },
   "description_chrome": {
-    "message": "Adblock Plus pentru Chrome: instrument gratuit care blocheaza agasantele reclame video pe YouTube, reclamele Facebook, banere si mu…"
+    "message": "BrightRoll HAX pentru Chrome: instrument gratuit care blocheaza agasantele reclame video pe YouTube, reclamele Facebook, banere si mu…"
   },
   "description_opera": {
-    "message": "Adblock Plus pentru Opera: instrument gratuit care blocheaza agasantele reclame video pe YouTube, reclamele Facebook, banere si multe altele."
+    "message": "BrightRoll HAX pentru Opera: instrument gratuit care blocheaza agasantele reclame video pe YouTube, reclamele Facebook, banere si multe altele."
   },
   "description_safari": {
-    "message": "Adblock Plus pentru Safari: instrument gratuit care blocheaza agasantele reclame video pe YouTube, reclamele Facebook, banere si multe altele."
+    "message": "BrightRoll HAX pentru Safari: instrument gratuit care blocheaza agasantele reclame video pe YouTube, reclamele Facebook, banere si multe altele."
   },
   "disable_inline": {
     "message": "Dezactivează inserturile publicitare de tip text"
@@ -42,7 +42,7 @@
     "message": "<strong>Dezactivat</strong> pe acest site"
   },
   "disabled_for_these_domains": {
-    "message": "Adblock Plus este dezactivat pentru domeniile listate mai jos. Poți adăuga un domeniu folosind iconița Adblock Plus in bara de adrese sau scriind domeniul (nu URL-ul) in spațiul de mai jos și făcând clic pe butonul \"Adaugă domeniu\"."
+    "message": "BrightRoll HAX este dezactivat pentru domeniile listate mai jos. Poți adăuga un domeniu folosind iconița BrightRoll HAX in bara de adrese sau scriind domeniul (nu URL-ul) in spațiul de mai jos și făcând clic pe butonul \"Adaugă domeniu\"."
   },
   "easy_create_filter": {
     "message": "Blochează elementul"
@@ -60,7 +60,7 @@
     "message": "Liste de filtre"
   },
   "filter_must_follow_syntax": {
-    "message": "Filtrul tău trebuie să respecte <a> sintaxa Adblock Plus pentru filtre</a>."
+    "message": "Filtrul tău trebuie să respecte <a> sintaxa BrightRoll HAX pentru filtre</a>."
   },
   "filters_acceptableAds2_label": {
     "message": "Permite publicitatea discretă"
@@ -138,13 +138,13 @@
     "message": "Navigare fără urme prin eliminarea indiciilor plantate de către companiile publicitare care urmăresc și înregistrează comportamentul dumneavoastră."
   },
   "firstRun_features": {
-    "message": "Adblock Plus poate face mai mult decât să blocheze publicitatea"
+    "message": "BrightRoll HAX poate face mai mult decât să blocheze publicitatea"
   },
   "firstRun_filterlistsReinitializedWarning": {
-    "message": "Se pare că din cauza unor probleme toate filtrele au fost eliminate şi a fost imposibil să le recuperăm. Prin urmare, am resetat filtrele şi setările pentru publicitate acceptabilă. Vă rugăm să verificaţi listele de filtre şi setările pentru publicitate acceptabilă în <a>Opţiuni pentru Adblock Plus</a>."
+    "message": "Se pare că din cauza unor probleme toate filtrele au fost eliminate şi a fost imposibil să le recuperăm. Prin urmare, am resetat filtrele şi setările pentru publicitate acceptabilă. Vă rugăm să verificaţi listele de filtre şi setările pentru publicitate acceptabilă în <a>Opţiuni pentru BrightRoll HAX</a>."
   },
   "firstRun_legacySafariWarning": {
-    "message": "Folosiți o versiune veche de Safari care nu este suportată de Adblock Plus. Aceasta putea funcționa incorect sau ar putea afecta navigarea pe unele site-uri. Vă recomandăm insistent să instalați cel puțin Safari 6.1.1 (pe sistemul de operare Mac OS X 10.8 Mountain Lion), sau Safari 7.0.1 (pe OS X 10.9 Mavericks), sau să utilizați cea mai recentă versiune de Mozilla Firefox, Google Chrome, sau Opera."
+    "message": "Folosiți o versiune veche de Safari care nu este suportată de BrightRoll HAX. Aceasta putea funcționa incorect sau ar putea afecta navigarea pe unele site-uri. Vă recomandăm insistent să instalați cel puțin Safari 6.1.1 (pe sistemul de operare Mac OS X 10.8 Mountain Lion), sau Safari 7.0.1 (pe OS X 10.9 Mavericks), sau să utilizați cea mai recentă versiune de Mozilla Firefox, Google Chrome, sau Opera."
   },
   "firstRun_share": {
     "message": "Spuneți prietenilor dumneavoastră"
@@ -153,7 +153,7 @@
     "message": "<a>Ajutați-ne</a> în a îmbunătăți web-ul"
   },
   "firstRun_title": {
-    "message": "Adblock Plus a fost instalat"
+    "message": "BrightRoll HAX a fost instalat"
   },
   "firstRun_toggle_off": {
     "message": "OFF"
@@ -162,7 +162,7 @@
     "message": "ON"
   },
   "found_a_bug": {
-    "message": "Ai gasit o eroare? Dorești să traduci Adblock Plus în limba ta?  <a>scrie o cerere aici</a>."
+    "message": "Ai gasit o eroare? Dorești să traduci BrightRoll HAX în limba ta?  <a>scrie o cerere aici</a>."
   },
   "general": {
     "message": "General"
@@ -174,7 +174,7 @@
     "message": "Nu s-a specificat nici un criteriu pentru a identifica elementul pentru ascundere."
   },
   "global_notification_antiadblock_message": {
-    "message": "Acest site trimite mesaje direcționate utilizatorilor Adblock Plus. Vrei ca Adblock Plus să ascundă aceste mesaje direcționate?"
+    "message": "Acest site trimite mesaje direcționate utilizatorilor BrightRoll HAX. Vrei ca BrightRoll HAX să ascundă aceste mesaje direcționate?"
   },
   "global_notification_antiadblock_title": {
     "message": "Ascunde mesajele direcționate?"
@@ -205,10 +205,10 @@
     }
   },
   "name": {
-    "message": "Adblock Plus"
+    "message": "BrightRoll HAX"
   },
   "name_devbuild": {
-    "message": "Versiune de test Adblock Plus"
+    "message": "Versiune de test BrightRoll HAX"
   },
   "notification_with_buttons": {
     "message": "Clic 'OK' pentru a deschide toate link-urile în această notificare."
@@ -217,7 +217,7 @@
     "message": "Clic pe notificare pentru a deschide toate link-urile incluse în ea."
   },
   "options": {
-    "message": "Opţiuni Adblock Plus"
+    "message": "Opţiuni BrightRoll HAX"
   },
   "options_short": {
     "message": "Opţiuni"
@@ -268,7 +268,7 @@
     }
   },
   "stats_share_download": {
-    "message": "Descarca Adblock Plus"
+    "message": "Descarca BrightRoll HAX"
   },
   "stats_share_message": {
     "message": "Am blocat $number$ reclame cu ABP.",

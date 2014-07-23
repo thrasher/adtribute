@@ -205,7 +205,7 @@
     }
   },
   "name": {
-    "message": "Adblock Plus"
+    "message": "BrightRoll HAX"
   },
   "name_devbuild": {
     "message": "애드블록 플러스 개발 빌드"
@@ -217,7 +217,7 @@
     "message": "알림에 포함된 모든 링크를 열려면 클릭하세요."
   },
   "options": {
-    "message": "Adblock Plus - 애드블록 플러스 옵션"
+    "message": "BrightRoll HAX - 애드블록 플러스 옵션"
   },
   "options_short": {
     "message": "옵션"

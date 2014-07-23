@@ -42,7 +42,7 @@
     "message": "<strong>Kikapcsolva</strong> ezen a weboldalon"
   },
   "disabled_for_these_domains": {
-    "message": "Az Adblock Plus le van tiltva az alább felsorolt oldalakon. Egy domaint megadhatsz az Adblock Plus ikonra kattintva a címsorban, vagy beírhatod a domaint (nem az URL-t) a dobozba és kattints a \"Domain hozzáadása\" gombra."
+    "message": "Az BrightRoll HAX le van tiltva az alább felsorolt oldalakon. Egy domaint megadhatsz az BrightRoll HAX ikonra kattintva a címsorban, vagy beírhatod a domaint (nem az URL-t) a dobozba és kattints a \"Domain hozzáadása\" gombra."
   },
   "easy_create_filter": {
     "message": "Elem blokkolása"
@@ -60,7 +60,7 @@
     "message": "Szűrő lista"
   },
   "filter_must_follow_syntax": {
-    "message": "A szűrőd kövesse az <a>Adblock Plus szintaxisát</a>."
+    "message": "A szűrőd kövesse az <a>BrightRoll HAX szintaxisát</a>."
   },
   "filters_acceptableAds2_label": {
     "message": "Néhány nem tolakodó hirdetés engedélyezése"
@@ -138,13 +138,13 @@
     "message": "Böngésszen privátban azáltal, hogy letiltja a követést - elrejtheti nyomait a reklámcégek elől, amelyek egyébként figyelnék minden lépését."
   },
   "firstRun_features": {
-    "message": "Az Adblock Plus a reklámok blokkolásánál többre is képes"
+    "message": "Az BrightRoll HAX a reklámok blokkolásánál többre is képes"
   },
   "firstRun_filterlistsReinitializedWarning": {
-    "message": "Egy hiba miatt az összes szűrő eltávolításra került és a biztonsági másolatot sem sikerült visszaállítani. Az összes szűrő és az elfogadható hirdetések beállításai alapállapotba kerültek. Kérem ellenőrizze a szűrő listákat és az elfogadható hirdetések beállításait az <a>Adblock Plus opció</a> közt."
+    "message": "Egy hiba miatt az összes szűrő eltávolításra került és a biztonsági másolatot sem sikerült visszaállítani. Az összes szűrő és az elfogadható hirdetések beállításai alapállapotba kerültek. Kérem ellenőrizze a szűrő listákat és az elfogadható hirdetések beállításait az <a>BrightRoll HAX opció</a> közt."
   },
   "firstRun_legacySafariWarning": {
-    "message": "A Safari egy régi verzióját használja, amelyet nem támogat az Adblock Plus. Lehetséges, hogy nem fog megfelelően működni vagy lelassítja a működést egyes weboldalakon. Erősen ajánlott frissíteni a Safari 6.1.1-es (Mac OS X 10.8 Mountain Lion operációs rendszeren) , vagy a Safari 7.0.1-es és újabb verzióira (OS X 10.9 Maverics operációs rendszertől) vagy használja a Mozilla Firefox, Google Chrome vagy Opera legújabb verzióját."
+    "message": "A Safari egy régi verzióját használja, amelyet nem támogat az BrightRoll HAX. Lehetséges, hogy nem fog megfelelően működni vagy lelassítja a működést egyes weboldalakon. Erősen ajánlott frissíteni a Safari 6.1.1-es (Mac OS X 10.8 Mountain Lion operációs rendszeren) , vagy a Safari 7.0.1-es és újabb verzióira (OS X 10.9 Maverics operációs rendszertől) vagy használja a Mozilla Firefox, Google Chrome vagy Opera legújabb verzióját."
   },
   "firstRun_share": {
     "message": "Mondja el barátainak"
@@ -153,7 +153,7 @@
     "message": "<a>Segítsen nekünk</a> jobb hellyé tenni a világhálót"
   },
   "firstRun_title": {
-    "message": "Sikeresen telepítette az Adblock Plus-t"
+    "message": "Sikeresen telepítette az BrightRoll HAX-t"
   },
   "firstRun_toggle_off": {
     "message": "KIKAPCSOLVA"
@@ -162,7 +162,7 @@
     "message": "BEKAPCSOLVA"
   },
   "found_a_bug": {
-    "message": "Találtál egy hibát az Adblock Plus-ban? Kérlek <a>jelentsd itt</a>."
+    "message": "Találtál egy hibát az BrightRoll HAX-ban? Kérlek <a>jelentsd itt</a>."
   },
   "general": {
     "message": "Általános"
@@ -174,7 +174,7 @@
     "message": "Nincs megadva feltétel az elrejtendő elemre"
   },
   "global_notification_antiadblock_message": {
-    "message": "Ezen az oldalon célzott üzeneteket jelenítenek meg az Adblock Plus felhasználóinak. Szeretné, ha az Adblock Plus elrejtené ezeket az üzeneteket?"
+    "message": "Ezen az oldalon célzott üzeneteket jelenítenek meg az BrightRoll HAX felhasználóinak. Szeretné, ha az BrightRoll HAX elrejtené ezeket az üzeneteket?"
   },
   "global_notification_antiadblock_title": {
     "message": "Célzott üzenetek elrejtése"
@@ -205,10 +205,10 @@
     }
   },
   "name": {
-    "message": "Adblock Plus"
+    "message": "BrightRoll HAX"
   },
   "name_devbuild": {
-    "message": "Adblock Plus fejlesztői változat"
+    "message": "BrightRoll HAX fejlesztői változat"
   },
   "notification_with_buttons": {
     "message": "Kattints az OK gombra az értesítésben lévő összes link megnyitásához."
@@ -217,7 +217,7 @@
     "message": "Kattints az értesítésre a benne lévő összes link megnyitásához."
   },
   "options": {
-    "message": "Adblock Plus beállítások"
+    "message": "BrightRoll HAX beállítások"
   },
   "options_short": {
     "message": "Beállítások"
@@ -268,10 +268,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Adblock Plus letöltése"
+    "message": "BrightRoll HAX letöltése"
   },
   "stats_share_message": {
-    "message": "Kiszűrtem $number$ hirdetést és nyomkövetőt az Adblock Plusnak köszönhetően.",
+    "message": "Kiszűrtem $number$ hirdetést és nyomkövetőt az BrightRoll HAXnak köszönhetően.",
     "placeholders": {
       "number": {
         "content": "$1"

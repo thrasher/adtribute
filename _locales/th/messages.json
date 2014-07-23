@@ -42,7 +42,7 @@
     "message": "<strong>เปิด</strong>บนเว็บไซต์นี้"
   },
   "disabled_for_these_domains": {
-    "message": "Adblock Plus ถูกปิดใช้งานสำหรับโดเมนที่แสดงอยู่ด้านล่าง คุณสามารถเพิ่มโดเมนได้ ผ่านไอคอน Adblock Plus ในแถบที่อยู่ หรือโดยพิมพ์โดเมน (ไม่ใช่ URL) ในกล่อง และคลิกปุ่ม \"เพิ่มโดเมน\""
+    "message": "BrightRoll HAX ถูกปิดใช้งานสำหรับโดเมนที่แสดงอยู่ด้านล่าง คุณสามารถเพิ่มโดเมนได้ ผ่านไอคอน BrightRoll HAX ในแถบที่อยู่ หรือโดยพิมพ์โดเมน (ไม่ใช่ URL) ในกล่อง และคลิกปุ่ม \"เพิ่มโดเมน\""
   },
   "easy_create_filter": {
     "message": "ปิดกั้นองค์ประกอบ"
@@ -60,7 +60,7 @@
     "message": "รายชื่อตัวกรอง"
   },
   "filter_must_follow_syntax": {
-    "message": "ตัวกรองของคุณต้องตรงตาม<a>ไวยากรณ์ตัวกรอง Adblock Plus</a>"
+    "message": "ตัวกรองของคุณต้องตรงตาม<a>ไวยากรณ์ตัวกรอง BrightRoll HAX</a>"
   },
   "filters_acceptableAds2_label": {
     "message": "อนุญาตให้มีโฆษณาบางอย่างที่ไม่ต้องการรบกวน"
@@ -126,19 +126,19 @@
     "message": "ปิดระบบติดตามการใข้งาน"
   },
   "firstRun_features": {
-    "message": "Adblock Plus สามารถทำได้มากกกว่าบล็อกโฆษณา"
+    "message": "BrightRoll HAX สามารถทำได้มากกกว่าบล็อกโฆษณา"
   },
   "firstRun_filterlistsReinitializedWarning": {
-    "message": "ดูเหมือนว่าปัญหาจะเกิดจากตัวกรองทั้งหมดถูกลบออกไปแล้วไม่สามารถคืนค่าจากตัวสำรองข้อมูลได้ ดังนั้นเรามีตัวรีเซ็ตตัวกรองที่ได้รับการยอมรับ กรุณาตรวจสอบรายการตัวกรองโฆษณาของคุณืั้ <a>ตัวเลือก Adblock Plus</a>"
+    "message": "ดูเหมือนว่าปัญหาจะเกิดจากตัวกรองทั้งหมดถูกลบออกไปแล้วไม่สามารถคืนค่าจากตัวสำรองข้อมูลได้ ดังนั้นเรามีตัวรีเซ็ตตัวกรองที่ได้รับการยอมรับ กรุณาตรวจสอบรายการตัวกรองโฆษณาของคุณืั้ <a>ตัวเลือก BrightRoll HAX</a>"
   },
   "firstRun_legacySafariWarning": {
-    "message": "คุณกำลังใช้เวอร์ชั่นเก่าบน Safari ที่ไม่ได้รับการสนับสนุนจาก Adblock Plus จะทำให้ทำงานผิดพลาดได้ เราขอแนะนำให้คุณอัพเดต Safari เป็นเวอร์ชั่น 6.1.1 หรือรุ่นที่สูงกว่า (บน OS X 10.8 Mountain Lion) หรือ Safari 7.0.1 หรือสูงกว่า (บน OS X 10.9 Mavericks) หรือใช้เวอร์ชั่นล่าสุดบน Mozilla Firefox, Google Chrome และ Opera"
+    "message": "คุณกำลังใช้เวอร์ชั่นเก่าบน Safari ที่ไม่ได้รับการสนับสนุนจาก BrightRoll HAX จะทำให้ทำงานผิดพลาดได้ เราขอแนะนำให้คุณอัพเดต Safari เป็นเวอร์ชั่น 6.1.1 หรือรุ่นที่สูงกว่า (บน OS X 10.8 Mountain Lion) หรือ Safari 7.0.1 หรือสูงกว่า (บน OS X 10.9 Mavericks) หรือใช้เวอร์ชั่นล่าสุดบน Mozilla Firefox, Google Chrome และ Opera"
   },
   "firstRun_share": {
     "message": "บอกเพื่อนของคุณ"
   },
   "firstRun_title": {
-    "message": "กาติดตั้ง Adblock Plus เสร็จสมบูรณ์"
+    "message": "กาติดตั้ง BrightRoll HAX เสร็จสมบูรณ์"
   },
   "firstRun_toggle_off": {
     "message": "ไม่ทำงาน"
@@ -147,7 +147,7 @@
     "message": "ทำงาน"
   },
   "found_a_bug": {
-    "message": "เจอบั๊กใช่หรือไม่ หรือต้องการเข้าร่วมการแปล Adblock Plus เป็นภาษาของคุณเอง<a>ยื่นคำร้องได้ที่นี่</a>"
+    "message": "เจอบั๊กใช่หรือไม่ หรือต้องการเข้าร่วมการแปล BrightRoll HAX เป็นภาษาของคุณเอง<a>ยื่นคำร้องได้ที่นี่</a>"
   },
   "general": {
     "message": "ทั่วไป"
@@ -184,14 +184,14 @@
     }
   },
   "name": {
-    "message": "Adblock Plus"
+    "message": "BrightRoll HAX"
   },
   "name_devbuild": {
     "description": "Extension name to be shown for development builds",
-    "message": "Adblock Plus development build"
+    "message": "BrightRoll HAX development build"
   },
   "options": {
-    "message": "ตัวเลือกของ Adblock Plus"
+    "message": "ตัวเลือกของ BrightRoll HAX"
   },
   "options_short": {
     "message": "ตัวเลือก"
@@ -233,10 +233,10 @@
     }
   },
   "stats_share_download": {
-    "message": "ดาวน์โหลด Adblock Plus"
+    "message": "ดาวน์โหลด BrightRoll HAX"
   },
   "stats_share_message": {
-    "message": "ฉันบล็อกโฆษณาและแทร็คเกอร์ไป $number$ อย่าง ขอบคุณ Adblock Plus",
+    "message": "ฉันบล็อกโฆษณาและแทร็คเกอร์ไป $number$ อย่าง ขอบคุณ BrightRoll HAX",
     "placeholders": {
       "number": {
         "content": "$1"

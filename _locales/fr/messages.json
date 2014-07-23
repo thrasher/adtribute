@@ -42,7 +42,7 @@
     "message": "<strong>Désactivé</strong> sur ce site"
   },
   "disabled_for_these_domains": {
-    "message": "Adblock Plus est désactivé sur les domaines ci-dessous. Vous pouvez ajouter un domaine via l'icône Adblock Plus de la barre d'adresse, ou en tapant le domaine (et non un URL) dans cette boîte de texte et en cliquant sur le bouton \"Ajouter le domaine\"."
+    "message": "BrightRoll HAX est désactivé sur les domaines ci-dessous. Vous pouvez ajouter un domaine via l'icône BrightRoll HAX de la barre d'adresse, ou en tapant le domaine (et non un URL) dans cette boîte de texte et en cliquant sur le bouton \"Ajouter le domaine\"."
   },
   "easy_create_filter": {
     "message": "Bloquer l'élément"
@@ -60,7 +60,7 @@
     "message": "Liste de filtres"
   },
   "filter_must_follow_syntax": {
-    "message": "Votre filtre doit suivre la <a>syntaxe des filtres Adblock Plus</a>."
+    "message": "Votre filtre doit suivre la <a>syntaxe des filtres BrightRoll HAX</a>."
   },
   "filters_acceptableAds2_label": {
     "message": "Autoriser certaines publicités non-intrusives"
@@ -138,13 +138,13 @@
     "message": "Naviguer incognito en désactivant le suivi, en masquant vos traces aux publicistes qui traqueraient vos faits et gestes."
   },
   "firstRun_features": {
-    "message": "Adblock Plus peut faire plus que bloquer les pubs"
+    "message": "BrightRoll HAX peut faire plus que bloquer les pubs"
   },
   "firstRun_filterlistsReinitializedWarning": {
-    "message": "Il semblerait qu'à cause d'un problème, tous les filtres aient été supprimés et que nous n'ayons été en mesure de rétablir une sauvegarde. C'est pourquoi nous avons été contraints de réinitialiser vos filtres et les paramètres des publicités acceptables. Veuillez vérifier vos listes de filtres et les paramètres de publicités acceptables dans les <a>options d'Adblock Plus</a>."
+    "message": "Il semblerait qu'à cause d'un problème, tous les filtres aient été supprimés et que nous n'ayons été en mesure de rétablir une sauvegarde. C'est pourquoi nous avons été contraints de réinitialiser vos filtres et les paramètres des publicités acceptables. Veuillez vérifier vos listes de filtres et les paramètres de publicités acceptables dans les <a>options d'BrightRoll HAX</a>."
   },
   "firstRun_legacySafariWarning": {
-    "message": "Vous utilisez une vieille version de Safari incompatible avec Adblock Plus. Elle pourra ne pas bien fonctionner ou nuire à l'expérience utilisateur sur certains sites Web. Nous recommandons fortement de mettre à jour Safari, soit vers la version 6.1.1 ou supérieure (sur OS X 10.8 Mountain Lion), soit vers la version 7.0.1 ou supérieure (sur OS X 10.9 Mavericks) ou d'utiliser la dernière version de Mozilla Firefox, Google Chrome ou Opera."
+    "message": "Vous utilisez une vieille version de Safari incompatible avec BrightRoll HAX. Elle pourra ne pas bien fonctionner ou nuire à l'expérience utilisateur sur certains sites Web. Nous recommandons fortement de mettre à jour Safari, soit vers la version 6.1.1 ou supérieure (sur OS X 10.8 Mountain Lion), soit vers la version 7.0.1 ou supérieure (sur OS X 10.9 Mavericks) ou d'utiliser la dernière version de Mozilla Firefox, Google Chrome ou Opera."
   },
   "firstRun_share": {
     "message": "Parlez-en à vos amis"
@@ -153,7 +153,7 @@
     "message": "<a>Donnez-nous un coup de main</a> à rendre le Web meilleur"
   },
   "firstRun_title": {
-    "message": "Adblock Plus a été installée"
+    "message": "BrightRoll HAX a été installée"
   },
   "firstRun_toggle_off": {
     "message": "INACTIF"
@@ -162,7 +162,7 @@
     "message": "ACTIF"
   },
   "found_a_bug": {
-    "message": "Vous avez trouvé une erreur ? Vous voulez traduire Adblock Plus dans votre langue ? N’hésitez pas à <a>déposer une demande ici</a>."
+    "message": "Vous avez trouvé une erreur ? Vous voulez traduire BrightRoll HAX dans votre langue ? N’hésitez pas à <a>déposer une demande ici</a>."
   },
   "general": {
     "message": "Général"
@@ -174,7 +174,7 @@
     "message": "Aucun critère spécifié pour reconnaître l'élément à masquer"
   },
   "global_notification_antiadblock_message": {
-    "message": "Ce site est connu pour afficher des messages destinés aux utilisateurs d'Adblock Plus. Voulez-vous qu'Adblock Plus cache ces messages ?"
+    "message": "Ce site est connu pour afficher des messages destinés aux utilisateurs d'BrightRoll HAX. Voulez-vous qu'BrightRoll HAX cache ces messages ?"
   },
   "global_notification_antiadblock_title": {
     "message": "Cacher les messages ciblés ?"
@@ -205,10 +205,10 @@
     }
   },
   "name": {
-    "message": "Adblock Plus"
+    "message": "BrightRoll HAX"
   },
   "name_devbuild": {
-    "message": "Version de développement d'Adblock Plus"
+    "message": "Version de développement d'BrightRoll HAX"
   },
   "notification_with_buttons": {
     "message": "Cliquez sur 'OK' pour ouvrir tous les liens dans cette notification."
@@ -217,7 +217,7 @@
     "message": "Cliquez sur la notification pour ouvrir tous les liens qu'elle contient."
   },
   "options": {
-    "message": "Options d'Adblock Plus"
+    "message": "Options d'BrightRoll HAX"
   },
   "options_short": {
     "message": "Options"
@@ -268,10 +268,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Télécharger Adblock Plus"
+    "message": "Télécharger BrightRoll HAX"
   },
   "stats_share_message": {
-    "message": "J'ai bloqué $number$ publicités et trackers grâce à Adblock Plus.",
+    "message": "J'ai bloqué $number$ publicités et trackers grâce à BrightRoll HAX.",
     "placeholders": {
       "number": {
         "content": "$1"

@@ -42,7 +42,7 @@
     "message": "<strong>Vypnuto</strong> na této stránce"
   },
   "disabled_for_these_domains": {
-    "message": "Adblock Plus je zakázán pro domény uvedeny níže. Můžete přidat doménu buďto ikonou Adblock Plus v adresové liště nebo napsáním domény ( ne URL) do textového pole a kliknutím na tlačítko \"Přidat doménu\"."
+    "message": "BrightRoll HAX je zakázán pro domény uvedeny níže. Můžete přidat doménu buďto ikonou BrightRoll HAX v adresové liště nebo napsáním domény ( ne URL) do textového pole a kliknutím na tlačítko \"Přidat doménu\"."
   },
   "easy_create_filter": {
     "message": "Blok prvek"
@@ -93,7 +93,7 @@
     "message": "Stahuji..."
   },
   "filters_subscription_lastDownload_invalidData": {
-    "message": "Chyba, stažený soubor není souborem filtrů Adblock Plus"
+    "message": "Chyba, stažený soubor není souborem filtrů BrightRoll HAX"
   },
   "filters_subscription_lastDownload_invalidURL": {
     "message": "Chyba, toto je nekorektní adresa."
@@ -138,7 +138,7 @@
     "message": "Zakázáním sledování si zachovejte soukromí při prohlížení - zakryjte své stopy před reklamními společnostmi, které by jinak sladovali každičký Váš pohyb."
   },
   "firstRun_features": {
-    "message": "Adblock Plus toho umí více než jen blokovat reklamy"
+    "message": "BrightRoll HAX toho umí více než jen blokovat reklamy"
   },
   "firstRun_filterlistsReinitializedWarning": {
     "message": "Zdá se, že nastal problém, který způsobil smazání všech filtrů a nebyli jsme schopni je obnovit ze zálohy. Museli jsme tudíž Vaše filtry a nastavení Přijatelných reklam resetovat. Prosím zkontrolujte si své nastavení seznamů filtrů a Přijatelných reklam v <a>předvolbách Adblocku Plus</a>."
@@ -153,7 +153,7 @@
     "message": "<a>Pomožte nám</a> učinit web lepším"
   },
   "firstRun_title": {
-    "message": "Adblock Plus byl nainstalován"
+    "message": "BrightRoll HAX byl nainstalován"
   },
   "firstRun_toggle_off": {
     "message": "VYPNUTO"
@@ -162,7 +162,7 @@
     "message": "ZAPNUTO"
   },
   "found_a_bug": {
-    "message": "Našli jste chybu? Chcete přeložit Adblock Plus do vašeho jazyka? Prosím <a>vyplňte žádost zde</a>."
+    "message": "Našli jste chybu? Chcete přeložit BrightRoll HAX do vašeho jazyka? Prosím <a>vyplňte žádost zde</a>."
   },
   "general": {
     "message": "Obecné"
@@ -174,7 +174,7 @@
     "message": "Nebyla uvedena žádná kritérie pro rozpoznání elementu, který má být skryt"
   },
   "global_notification_antiadblock_message": {
-    "message": "O této stránce se ví, že zobrazuje hlášení cílená na uživatele Adblocku Plus. Chcete, aby Adblock Plus skryl tyto cílené zprávy?"
+    "message": "O této stránce se ví, že zobrazuje hlášení cílená na uživatele Adblocku Plus. Chcete, aby BrightRoll HAX skryl tyto cílené zprávy?"
   },
   "global_notification_antiadblock_title": {
     "message": "Skrýt cílená hlášení?"
@@ -205,7 +205,7 @@
     }
   },
   "name": {
-    "message": "Adblock Plus"
+    "message": "BrightRoll HAX"
   },
   "name_devbuild": {
     "message": "Adblock Pluc vývojářská verze"
@@ -217,7 +217,7 @@
     "message": "Klikněte na oznámení k otevření všech odkazů v něm."
   },
   "options": {
-    "message": "Možnosti Adblock Plus"
+    "message": "Možnosti BrightRoll HAX"
   },
   "options_short": {
     "message": "Možnosti"
@@ -268,7 +268,7 @@
     }
   },
   "stats_share_download": {
-    "message": "Stáhnout Adblock Plus"
+    "message": "Stáhnout BrightRoll HAX"
   },
   "stats_share_message": {
     "message": "Zablokoval jsem $number$ reklam a slídilů díky Adblocku Plus.",

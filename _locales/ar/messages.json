@@ -42,7 +42,7 @@
     "message": "<strong>معطل</strong> في هذا الموقع"
   },
   "disabled_for_these_domains": {
-    "message": "Adblock Plus معطل للنطاقات التالية. تستطيع إضافة نطاق من خلال الضغط على أيقونة Adblock Plus في شريط العنوان أو من خلال كتابة اسم النطاق (وليس الرابط) في الصندوق ثم الضغط على زر \"Add domain\"."
+    "message": "BrightRoll HAX معطل للنطاقات التالية. تستطيع إضافة نطاق من خلال الضغط على أيقونة BrightRoll HAX في شريط العنوان أو من خلال كتابة اسم النطاق (وليس الرابط) في الصندوق ثم الضغط على زر \"Add domain\"."
   },
   "easy_create_filter": {
     "message": "حظر العنصر"
@@ -60,7 +60,7 @@
     "message": "قائمة الفلاتر"
   },
   "filter_must_follow_syntax": {
-    "message": "فلترك يجب أن يتبع <a> Adblock Plus filter syntax</a>."
+    "message": "فلترك يجب أن يتبع <a> BrightRoll HAX filter syntax</a>."
   },
   "filters_acceptableAds2_label": {
     "message": "السماح لبعض الإعلانات الغير متطفّلة"
@@ -162,7 +162,7 @@
     "message": "تشغيل"
   },
   "found_a_bug": {
-    "message": "هل وجدت خطأ برمجي؟ تريد ترجمة Adblock Plus إلى لغتك؟ الرجاء <a>الطلب هنا</a>."
+    "message": "هل وجدت خطأ برمجي؟ تريد ترجمة BrightRoll HAX إلى لغتك؟ الرجاء <a>الطلب هنا</a>."
   },
   "general": {
     "message": "عام"
@@ -174,7 +174,7 @@
     "message": "لم يتم تحديد صيغة للتعرف على العنصر لإخفاؤه"
   },
   "global_notification_antiadblock_message": {
-    "message": "لقد عرف هذا الموقع بإظهاره رسائل موجهة إلى المستخدمين. هل تريد أن يخفي Adblock Plus الرسائل المستهدفة؟"
+    "message": "لقد عرف هذا الموقع بإظهاره رسائل موجهة إلى المستخدمين. هل تريد أن يخفي BrightRoll HAX الرسائل المستهدفة؟"
   },
   "global_notification_antiadblock_title": {
     "message": "إخفاء الرسائل المستهدفة؟"
@@ -208,7 +208,7 @@
     "message": "آدبلوك بلس"
   },
   "name_devbuild": {
-    "message": "رقم نسخة تطوير Adblock Plus"
+    "message": "رقم نسخة تطوير BrightRoll HAX"
   },
   "notification_with_buttons": {
     "message": "اضغط موافق لفتح جميع الروابط في هذا التنبيه."
@@ -268,7 +268,7 @@
     }
   },
   "stats_share_download": {
-    "message": "تحميل Adblock Plus"
+    "message": "تحميل BrightRoll HAX"
   },
   "stats_share_message": {
     "message": "أنا منعت الإعلانات $number$ وتتبع بفضل زائد.",

@@ -42,7 +42,7 @@
     "message": "এই সাইটে <strong>নিষ্ক্রিয় করা আছে</strong>"
   },
   "disabled_for_these_domains": {
-    "message": "নীচে তালিকাভুক্ত করা ডোমেইনের জন্য Adblock Plus নিস্ক্রিয় করা আছে। আপনি হয় ঠিকানা দণ্ডে Adblock Plus আইকনের মাধ্যমে একটি ডোমেইন যুক্ত করতে পারেন অথবা বাক্সের মধ্যে ডোমেইন লিখে (URL নয়) এবং \"ডোমেইন যুক্ত করুন\"-এ ক্লিক করে।"
+    "message": "নীচে তালিকাভুক্ত করা ডোমেইনের জন্য BrightRoll HAX নিস্ক্রিয় করা আছে। আপনি হয় ঠিকানা দণ্ডে BrightRoll HAX আইকনের মাধ্যমে একটি ডোমেইন যুক্ত করতে পারেন অথবা বাক্সের মধ্যে ডোমেইন লিখে (URL নয়) এবং \"ডোমেইন যুক্ত করুন\"-এ ক্লিক করে।"
   },
   "easy_create_filter": {
     "message": "উপাদান অবরুদ্ধ করুন"
@@ -63,7 +63,7 @@
     "message": "আপনার ফিল্টারকে <a>অ্যাডব্লকের প্লাসের ফিল্টার সিনট্যাক্স</a> অনুসরণ করা আবশ্যক।"
   },
   "found_a_bug": {
-    "message": "একটি বাগ খুঁজে পেয়েছেন? আপনার ভাষায় Adblock Plus অনুবাদ করতে চান? দয়া করে <a>এখানে একটি অনুরোধ ফাইল করুন</a>।"
+    "message": "একটি বাগ খুঁজে পেয়েছেন? আপনার ভাষায় BrightRoll HAX অনুবাদ করতে চান? দয়া করে <a>এখানে একটি অনুরোধ ফাইল করুন</a>।"
   },
   "general": {
     "message": "সাধারণ"
@@ -88,7 +88,7 @@
     }
   },
   "name": {
-    "message": "Adblock Plus"
+    "message": "BrightRoll HAX"
   },
   "name_devbuild": {
     "message": "অ্যাডব্লক প্লাসের উন্নয়ন গঠন"
@@ -100,7 +100,7 @@
     "message": "এটিতে সকল লিংক খোলার জন্য বিজ্ঞপ্তিতে ক্লিক করুন।"
   },
   "options": {
-    "message": "Adblock Plus অপশনস"
+    "message": "BrightRoll HAX অপশনস"
   },
   "options_short": {
     "message": "অপশনগুলি"
@@ -139,10 +139,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Adblock Plus ডাউনলোড করুন"
+    "message": "BrightRoll HAX ডাউনলোড করুন"
   },
   "stats_share_message": {
-    "message": "আমি $number$টি বিজ্ঞাপন ও ট্রেকারসকে অবরুধ করছি Adblock Plus কে ধন্যবাদ।",
+    "message": "আমি $number$টি বিজ্ঞাপন ও ট্রেকারসকে অবরুধ করছি BrightRoll HAX কে ধন্যবাদ।",
     "placeholders": {
       "number": {
         "content": "$1"

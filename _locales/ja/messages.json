@@ -42,7 +42,7 @@
     "message": "このサイトで<strong>無効</strong>"
   },
   "disabled_for_these_domains": {
-    "message": "Adblock Plus を以下のドメインで無効にします。アドレスバーの Adblock Plus アイコン、または下の欄にドメイン（URL ではない）を入力し「ドメインを追加」ボタンで追加できます。"
+    "message": "BrightRoll HAX を以下のドメインで無効にします。アドレスバーの BrightRoll HAX アイコン、または下の欄にドメイン（URL ではない）を入力し「ドメインを追加」ボタンで追加できます。"
   },
   "easy_create_filter": {
     "message": "要素をブロック"
@@ -60,7 +60,7 @@
     "message": "フィルタリスト"
   },
   "filter_must_follow_syntax": {
-    "message": "<a>Adblock Plus フィルタの書式</a> に準拠したフィルタを記述しなければなりません。"
+    "message": "<a>BrightRoll HAX フィルタの書式</a> に準拠したフィルタを記述しなければなりません。"
   },
   "filters_acceptableAds2_label": {
     "message": "控えめな広告を許可"
@@ -138,13 +138,13 @@
     "message": "追跡を無効化してプライバシーを確保しつつブラウジング - あなたのあらゆる動静を追跡する広告会社から足跡を隠します。"
   },
   "firstRun_features": {
-    "message": "Adblock Plus は単に広告をブロックするだけではありません"
+    "message": "BrightRoll HAX は単に広告をブロックするだけではありません"
   },
   "firstRun_filterlistsReinitializedWarning": {
-    "message": "すべてのフィルタが削除されてしまう問題が発生したようです。バックアップから復元することができず、お使いのフィルタと控えめな広告の設定をリセットする必要がありました。 <a>Adblock Plus のオプション</a>から、お使いのフィルタリストと控えめな広告の設定を確認してください。"
+    "message": "すべてのフィルタが削除されてしまう問題が発生したようです。バックアップから復元することができず、お使いのフィルタと控えめな広告の設定をリセットする必要がありました。 <a>BrightRoll HAX のオプション</a>から、お使いのフィルタリストと控えめな広告の設定を確認してください。"
   },
   "firstRun_legacySafariWarning": {
-    "message": "Adblock Plus がサポートしていない古いバージョンの Safari を利用しているため、正常に動作しなかったりユーザー体験を損なう Web サイトがあるかもしれません。Mac OS X 10.8 Mountain Lion なら Safari 6.1.1 以降、Mac OS X 10.9 Mavericks なら Safari 7.0.1 以降に更新するか、Mozilla Firefox／Google Chrome／Opera いずれか最新版の利用を強く推奨します。"
+    "message": "BrightRoll HAX がサポートしていない古いバージョンの Safari を利用しているため、正常に動作しなかったりユーザー体験を損なう Web サイトがあるかもしれません。Mac OS X 10.8 Mountain Lion なら Safari 6.1.1 以降、Mac OS X 10.9 Mavericks なら Safari 7.0.1 以降に更新するか、Mozilla Firefox／Google Chrome／Opera いずれか最新版の利用を強く推奨します。"
   },
   "firstRun_share": {
     "message": "友達に教える"
@@ -153,7 +153,7 @@
     "message": "Web をより良い場所にするために<a>協力する</a>"
   },
   "firstRun_title": {
-    "message": "Adblock Plus がインストールされました"
+    "message": "BrightRoll HAX がインストールされました"
   },
   "firstRun_toggle_off": {
     "message": "OFF"
@@ -162,7 +162,7 @@
     "message": "ON"
   },
   "found_a_bug": {
-    "message": "バグを発見? Adblock Plus を翻訳したい? その場合は <a>ここよりリクエスト</a> 願います。"
+    "message": "バグを発見? BrightRoll HAX を翻訳したい? その場合は <a>ここよりリクエスト</a> 願います。"
   },
   "general": {
     "message": "一般"
@@ -174,10 +174,10 @@
     "message": "要素を非表示にする条件が指定されていません"
   },
   "global_notification_antiadblock_message": {
-    "message": "このサイトは Adblock Plus ユーザーを対象としたメッセージを表示することで知られています。Adblock Plus でこれらのメッセージを非表示にしますか？"
+    "message": "このサイトは BrightRoll HAX ユーザーを対象としたメッセージを表示することで知られています。BrightRoll HAX でこれらのメッセージを非表示にしますか？"
   },
   "global_notification_antiadblock_title": {
-    "message": "Adblock Plus ユーザー向けのメッセージを非表示にしますか？"
+    "message": "BrightRoll HAX ユーザー向けのメッセージを非表示にしますか？"
   },
   "global_remove_subscription_warning": {
     "message": "本当にこのフィルタの購読を削除しますか？"
@@ -205,10 +205,10 @@
     }
   },
   "name": {
-    "message": "Adblock Plus"
+    "message": "BrightRoll HAX"
   },
   "name_devbuild": {
-    "message": "Adblock Plus 開発版"
+    "message": "BrightRoll HAX 開発版"
   },
   "notification_with_buttons": {
     "message": "この通知内すべてのリンクを開くには 'OK' をクリックしてください。"
@@ -217,7 +217,7 @@
     "message": "通知内すべてのリンクを開くにはここをクリックしてください。"
   },
   "options": {
-    "message": "Adblock Plus オプション"
+    "message": "BrightRoll HAX オプション"
   },
   "options_short": {
     "message": "オプション"
@@ -268,10 +268,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Adblock Plus をダウンロード"
+    "message": "BrightRoll HAX をダウンロード"
   },
   "stats_share_message": {
-    "message": "Adblock Plus のおかげで累計 $number$ 箇所の広告と追跡がブロックされました。",
+    "message": "BrightRoll HAX のおかげで累計 $number$ 箇所の広告と追跡がブロックされました。",
     "placeholders": {
       "number": {
         "content": "$1"

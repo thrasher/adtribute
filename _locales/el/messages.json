@@ -42,7 +42,7 @@
     "message": "<strong>Απενεργοποιημένο</strong> σε αυτή την σελίδα"
   },
   "disabled_for_these_domains": {
-    "message": "Το Adblock Plus είναι απενεργοποιημένο για τα domains της ακόλουθης λίστας. Μπορείτε να προσθέσετε ένα domain, είτε μέσω του εικονιδίου Adblock Plus στην γραμμή διευθύνσεων ή πληκτρολογώντας το domain (όχι το URL) στο κουτί και πατώντας το κουμπί \"προσθήκη domain\"."
+    "message": "Το BrightRoll HAX είναι απενεργοποιημένο για τα domains της ακόλουθης λίστας. Μπορείτε να προσθέσετε ένα domain, είτε μέσω του εικονιδίου BrightRoll HAX στην γραμμή διευθύνσεων ή πληκτρολογώντας το domain (όχι το URL) στο κουτί και πατώντας το κουμπί \"προσθήκη domain\"."
   },
   "easy_create_filter": {
     "message": "Φραγή στοιχείου"
@@ -60,7 +60,7 @@
     "message": "Λίστες φίλτρων"
   },
   "filter_must_follow_syntax": {
-    "message": "Το φίλτρο σας πρέπει να ακολουθεί τη <a>σύνταξη φίλτρου του Adblock Plus</a>."
+    "message": "Το φίλτρο σας πρέπει να ακολουθεί τη <a>σύνταξη φίλτρου του BrightRoll HAX</a>."
   },
   "filters_acceptableAds2_label": {
     "message": "Να επιτρέπονται μερικές μη-παρεμβατικές διαφημίσεις"
@@ -138,10 +138,10 @@
     "message": "Περιηγηθείτε ιδιωτικά απενεργοποιώντας την παρακολούθηση - αποκρύπτοντας τα ίχνη σας από εταιρείες διαφημίσεων που μπορούν να παρακολουθούν κάθε κίνησή σας."
   },
   "firstRun_features": {
-    "message": "Το Adblock Plus μπορεί να κάνει περισσότερα από το φιλτράρισμα διαφημίσεων"
+    "message": "Το BrightRoll HAX μπορεί να κάνει περισσότερα από το φιλτράρισμα διαφημίσεων"
   },
   "firstRun_legacySafariWarning": {
-    "message": "Χρησιμοποιείτε μια παλιά έκδοση του Safari,  η οποία δεν υποστηρίζεται από το Adblock Plus. Μπορεί να μην λειτουργεί σωστά ή να αλλοιώσει την εμπειρία χρήστη σε ορισμένες ιστοσελίδες. Σας συνιστούμε είτε να ενημερώσετε την έκδοση του φυλλομετρητή σε Safari 6.1.1 ή νεότερη (σε Mac OS X 10.8 Mountain Lion), ή σε Safari 7.0.1 ή νεότερη (σε OS X 10.9 Mavericks) ή να χρησιμοποιήσετε την τελευταία έκδοση του Mozilla Firefox, Google Chrome ή Opera."
+    "message": "Χρησιμοποιείτε μια παλιά έκδοση του Safari,  η οποία δεν υποστηρίζεται από το BrightRoll HAX. Μπορεί να μην λειτουργεί σωστά ή να αλλοιώσει την εμπειρία χρήστη σε ορισμένες ιστοσελίδες. Σας συνιστούμε είτε να ενημερώσετε την έκδοση του φυλλομετρητή σε Safari 6.1.1 ή νεότερη (σε Mac OS X 10.8 Mountain Lion), ή σε Safari 7.0.1 ή νεότερη (σε OS X 10.9 Mavericks) ή να χρησιμοποιήσετε την τελευταία έκδοση του Mozilla Firefox, Google Chrome ή Opera."
   },
   "firstRun_share": {
     "message": "Πείτε το στους φίλους σας"
@@ -150,7 +150,7 @@
     "message": "<a>Δώστε μας ένα χεράκι</a> στο να κάνουμε το διαδίκτυο ένα καλύτερο μέρος"
   },
   "firstRun_title": {
-    "message": "Το Adblock Plus έχει εγκατασταθεί"
+    "message": "Το BrightRoll HAX έχει εγκατασταθεί"
   },
   "firstRun_toggle_off": {
     "message": "Ανενεργό"
@@ -159,7 +159,7 @@
     "message": "Ενεργό"
   },
   "found_a_bug": {
-    "message": "Βρήκατε σφάλματα; Θέλετε να μεταφράσετε το Adblock Plus στην γλώσσα σας; Παρακαλώ <a>καταχωρείστε ένα αίτημα εδώ</a>."
+    "message": "Βρήκατε σφάλματα; Θέλετε να μεταφράσετε το BrightRoll HAX στην γλώσσα σας; Παρακαλώ <a>καταχωρείστε ένα αίτημα εδώ</a>."
   },
   "general": {
     "message": "Γενικά"
@@ -171,7 +171,7 @@
     "message": "Δεν καθορίστηκαν κριτήρια ώστε να αναγνωριστεί το στοιχείο που θα φιλτραριστεί"
   },
   "global_notification_antiadblock_message": {
-    "message": "Αυτή η σελίδα είναι γνωστό ότι προβάλει στοχευμένα μηνύματα στους χρήστες του Adblock Plus. Θέλετε το Adblock Plus να αποκρύπτει στοχευμένα μηνύματα;"
+    "message": "Αυτή η σελίδα είναι γνωστό ότι προβάλει στοχευμένα μηνύματα στους χρήστες του BrightRoll HAX. Θέλετε το BrightRoll HAX να αποκρύπτει στοχευμένα μηνύματα;"
   },
   "global_notification_antiadblock_title": {
     "message": "Απόκρυψη στοχευμένων μηνυμάτων;"
@@ -202,10 +202,10 @@
     }
   },
   "name": {
-    "message": "Adblock Plus"
+    "message": "BrightRoll HAX"
   },
   "name_devbuild": {
-    "message": "Adblock Plus δοκιμαστική έκδοση"
+    "message": "BrightRoll HAX δοκιμαστική έκδοση"
   },
   "notification_with_buttons": {
     "message": "Κάντε κλικ στο \"ΟΚ\" για να ανοίξετε όλους τις συνδέσεις σε αυτή την ειδοποίηση."
@@ -214,7 +214,7 @@
     "message": "Κάντε κλικ στην ειδοποίηση για να ανοίξετε όλες τις συνδέσεις σε αυτή."
   },
   "options": {
-    "message": "Επιλογές Adblock Plus"
+    "message": "Επιλογές BrightRoll HAX"
   },
   "options_short": {
     "message": "Επιλογές"
@@ -265,10 +265,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Κατεβάστε το Adblock Plus"
+    "message": "Κατεβάστε το BrightRoll HAX"
   },
   "stats_share_message": {
-    "message": "Απέκλεισα $number$ διαφημίσεις και ιχνηλάτες χάρη στο Adblock Plus.",
+    "message": "Απέκλεισα $number$ διαφημίσεις και ιχνηλάτες χάρη στο BrightRoll HAX.",
     "placeholders": {
       "number": {
         "content": "$1"
