@@ -48,46 +48,66 @@ FilterNotifier.addListener(function(action)
 });
 
 // http://tools.btrll.com/wiki/Testing_RTBD_end-to-end_on_Stage#Testing
-//http://test.btrll.com/vast_monster?vast_url=http%3A%2F%2Fvast.bp3850308.btrll.com%2Fvast%2F3850308&content_vid=http%3A%2F%2Famscdn.btrll.com%2Fproduction%2F5798%2Fbrvideo.flv&w=300&h=250&autostart=on
+// http://test.btrll.com/vast_monster?vast_url=http%3A%2F%2Fvast.bp3850308.btrll.com%2Fvast%2F3850308&content_vid=http%3A%2F%2Famscdn.btrll.com%2Fproduction%2F5798%2Fbrvideo.flv&w=300&h=250&autostart=on
+// https://github.com/prasmussen/chrome-cli
+// brew install chrome-cli
 
-var adtech = {
-  "platform" : [
-  {
-    "handle": "brightroll",
-    "brand" : "BrightRoll Platform",
-    "lifecycle" : {
-    "player" : new RegExp('.*cache.btrll.com/jwplayer/.*','ig'),
-    "decision" : new RegExp('vast.*.btrll.com','ig'),
-    "video" : new RegExp('.*brxcdn.*.btrll.com/production/.*','ig'),
-    "metrics" : new RegExp('brxserv.*.btrll.com','ig')
+var platform ={};
+platform['brightroll'] = {
+  "handle": "brightroll",
+  "brand" : "BrightRoll Platform",
+  "lifecycle" : {
+      "player" : new RegExp('.*cache.btrll.com/jwplayer/.*','ig'),
+      "decision" : new RegExp('vast.*.btrll.com','ig'),
+      "video" : new RegExp('.*brxcdn.*.btrll.com/production/.*(flv|mpeg|mpg|mov|mp4)','ig'),
+      "companion" : new RegExp('.*brxcdn.*.btrll.com/production/.*(jpg|jpeg|png|gif)','ig'),
+      "metrics" : new RegExp('brxserv.*.btrll.com','ig')
     }
-  },
-  { "handle": "tremor", "brand" : "Tremor Video" },
-  { "handle": "tubemogul", "brand" : "TubeMogul" },
-  { "handle": "adaptv", "brand" : "Adap.TV" },
-  { "handle": "adx", "brand" : "Google DoubleClick Ad Exchange" },
-  { "handle": "liverail", "brand" : "LiveRail Online Video Advertising Platform" },
-  { "handle": "specific", "brand" : "Specific Media" },
-  { "handle": "aol", "brand" : "AOL Advertising" },
-  { "handle": "spotx", "brand" : "SpotXchange: Online Video Advertising Platform" },
-  { "handle": "videology", "brand" : "Videology : Video Advertising Platform" },
-  ]
-};
+  };
+//http://r12---sn-a5m7lner.c.2mdn.net/videoplayback/id/06fd7765f7b33ba1
+platform['adx'] = {
+  "handle": "adx",
+  "brand" : "DoubleClick Ad Exchange",
+  "lifecycle" : {
+      "player" : "",
+      "decision" : "",
+      "video" : new RegExp('.*2mdn.net/videoplayback/.*(flv|mpeg|mpg|mov|mp4)','ig'),
+      "companion" : "",
+      "metrics" : ""
+    }
+  };
 
-var urlCache = {};
-
-console.log("BRAND: "+JSON.stringify(adtech));
-
-function isVideoAd() {
-
+function notifyAdtribution(platform, url) {
+  var msg = "Adtribution: " + platform.brand;
+  var noti = chrome.notifications.create(
+    'name-for-notification',{   
+    'type': 'basic', 
+    'iconUrl': 'icons/abp-48.png', 
+    'title': msg,
+    'message': url
+    },
+    function() {
+      //alert('what?');
+    }
+  );
 }
+
+console.log("BRAND: "+JSON.stringify(platform));
 
 function onBeforeRequest(url, type, page, frame)
 {
-  console.log("url "+url);
-  console.log("type "+type);
-  console.log("page "+page);
-  console.log("frame "+frame);
+  // console.log("url "+url);
+  // console.log("type "+type);
+  // console.log("page "+page);
+  // console.log("frame "+frame);
+
+  platform.each(function(k, v) {
+      alert('key is: ' + k + ', value is: ' + v);
+  });
+
+  if (platform['brightroll'].lifecycle.video.test(url)) {
+    notifyAdtribution(platform['brightroll'], url);
+  }
 
   if (isFrameWhitelisted(page, frame))
     return true;
