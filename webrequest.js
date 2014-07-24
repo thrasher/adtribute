@@ -47,6 +47,23 @@ FilterNotifier.addListener(function(action)
   }
 });
 
+function onHeadersReceived(details) {
+  //console.log(JSON.stringify(details));
+  for(var key in details.responseHeaders) {
+    if (details.responseHeaders.hasOwnProperty(key)) {
+      //console.log(key + " = " + JSON.stringify(details.responseHeaders[key]));
+      var header = details.responseHeaders[key];
+      if (header.name.toLowerCase() == "content-type") {
+        if (/video.*/.test(header.value)) {
+          console.log(JSON.stringify(header) + " " + details.url);
+        }        
+      }
+    }
+  }
+}
+chrome.webRequest.onHeadersReceived.addListener(onHeadersReceived,
+ {urls:["http://*/*", "https://*/*"]}, ["blocking","responseHeaders"]);
+
 // http://tools.btrll.com/wiki/Testing_RTBD_end-to-end_on_Stage#Testing
 // http://test.btrll.com/vast_monster?vast_url=http%3A%2F%2Fvast.bp3850308.btrll.com%2Fvast%2F3850308&content_vid=http%3A%2F%2Famscdn.btrll.com%2Fproduction%2F5798%2Fbrvideo.flv&w=300&h=250&autostart=on
 // https://github.com/prasmussen/chrome-cli
@@ -56,10 +73,11 @@ var platform ={};
 platform['brightroll'] = {
   "handle": "brightroll",
   "brand" : "BrightRoll Platform",
+  "logo" : "icons/abp-48.png",
   "lifecycle" : {
       "player" : new RegExp('.*cache.btrll.com/jwplayer/.*','ig'),
       "decision" : new RegExp('vast.*.btrll.com','ig'),
-      "video" : new RegExp('.*brxcdn.*.btrll.com/production/.*(flv|mpeg|mpg|mov|mp4)','ig'),
+      "video" : new RegExp('.*brxcdn.*.btrll.com/production/.*(flv|mpeg|mpg|mov|mp4|webm)','ig'),
       "companion" : new RegExp('.*brxcdn.*.btrll.com/production/.*(jpg|jpeg|png|gif)','ig'),
       "metrics" : new RegExp('brxserv.*.btrll.com','ig')
     }
@@ -68,10 +86,55 @@ platform['brightroll'] = {
 platform['adx'] = {
   "handle": "adx",
   "brand" : "DoubleClick Ad Exchange",
+  "logo" : "icons/doubleclick_adexchange_logo.gif",
   "lifecycle" : {
       "player" : "",
       "decision" : "",
-      "video" : new RegExp('.*2mdn.net/videoplayback/.*(flv|mpeg|mpg|mov|mp4)','ig'),
+      "video" : new RegExp('.*2mdn.net/videoplayback/.*(flv|mpeg|mpg|mov|mp4|webm)','ig'),
+      "companion" : "",
+      "metrics" : ""
+    }
+  };
+// scanscout is purchased by tremor in 2010
+// http://static.scanscout.com/filemanager/vhs/partner350101_2bb3689d-c0aa-434b-8893-5e085ad5a4fc.mp4 
+platform['tremor'] = {
+  "handle": "tremor",
+  "brand" : "Tremor Video",
+  "logo" : "icons/tremorvideo_logo.png",
+  "lifecycle" : {
+      "player" : "",
+      "decision" : "",
+      "video" : new RegExp('.*scanscout.com/.*(flv|mpeg|mpg|mov|mp4|webm)','ig'),
+      "companion" : "",
+      "metrics" : ""
+    }
+  };
+
+//Sizmek_Logo_CMYK_Transparent.png
+// serving-sys owned by sizmek
+// aka Ilissos Eyeblaster
+// http://ds.serving-sys.com/BurstingRes/Site-39147/Type-16/d3185e43-d699-4d89-8b83-8f4e38fbf59d.mp4
+platform['sizmek'] = {
+  "handle": "sizmek",
+  "brand" : "Sizmek (MediaMind)",
+  "logo" : "icons/Sizmek_Logo_CMYK_Transparent.png",
+  "lifecycle" : {
+      "player" : "",
+      "decision" : "",
+      "video" : new RegExp('.*serving-sys.com/.*(flv|mpeg|mpg|mov|mp4|webm)','ig'),
+      "companion" : "",
+      "metrics" : ""
+    }
+  };
+// http://vindicoasset.edgesuite.net/Repository/CampaignCreative/Campaign_19346/INSTREAMAD/fy15_crabfest%2015_us_YDRR1226000H_PreRoll_640x360_16-9.flv
+platform['vindico'] = {
+  "handle": "vindico",
+  "brand" : "Vindico",
+  "logo" : "icons/vindico.png",
+  "lifecycle" : {
+      "player" : "",
+      "decision" : "",
+      "video" : new RegExp('.*vindico.*(flv|mpeg|mpg|mov|mp4|webm)'),
       "companion" : "",
       "metrics" : ""
     }
@@ -82,7 +145,7 @@ function notifyAdtribution(platform, url) {
   var noti = chrome.notifications.create(
     'name-for-notification',{   
     'type': 'basic', 
-    'iconUrl': 'icons/abp-48.png', 
+    'iconUrl': platform.logo, 
     'title': msg,
     'message': url
     },
@@ -96,17 +159,17 @@ console.log("BRAND: "+JSON.stringify(platform));
 
 function onBeforeRequest(url, type, page, frame)
 {
-  // console.log("url "+url);
-  // console.log("type "+type);
-  // console.log("page "+page);
-  // console.log("frame "+frame);
+  // console.log("url "+url + " type "+type +" page "+page+ " frame "+frame);
 
-  platform.each(function(k, v) {
-      alert('key is: ' + k + ', value is: ' + v);
-  });
+  if (new RegExp('.*(flv|mpeg|mpg|mov|mp4).*','ig').test(url)) {
+    //console.log("video: "+url);
+  }
 
-  if (platform['brightroll'].lifecycle.video.test(url)) {
-    notifyAdtribution(platform['brightroll'], url);
+  for (var handle in platform) {
+    var p = platform[handle];
+    if (p.lifecycle.video.test(url)) {
+      notifyAdtribution(p, url);
+    }
   }
 
   if (isFrameWhitelisted(page, frame))
@@ -137,33 +200,4 @@ function onBeforeRequest(url, type, page, frame)
 
 ext.webRequest.onBeforeRequest.addListener(onBeforeRequest);
 
-if (platform == "chromium")
-{
-  function onHeadersReceived(details)
-  {
-    if (details.tabId == -1)
-      return;
 
-    if (details.type != "main_frame" && details.type != "sub_frame")
-      return;
-
-    var page = new ext.Page({id: details.tabId});
-    var frame = ext.getFrame(details.tabId, details.frameId);
-
-    if (!frame || frame.url != details.url)
-      return;
-
-    for (var i = 0; i < details.responseHeaders.length; i++)
-    {
-      var header = details.responseHeaders[i];
-      if (header.name.toLowerCase() == "x-adblock-key" && header.value)
-        processKeyException(header.value, page, frame);
-    }
-
-    var notificationToShow = Notification.getNextToShow(details.url);
-    if (notificationToShow)
-      showNotification(notificationToShow);
-  }
-
-  chrome.webRequest.onHeadersReceived.addListener(onHeadersReceived, {urls: ["http://*/*", "https://*/*"]}, ["responseHeaders"]);
-}
