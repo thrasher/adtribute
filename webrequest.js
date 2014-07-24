@@ -77,7 +77,9 @@ platform['brightroll'] = {
   "lifecycle" : {
       "player" : new RegExp('.*cache.btrll.com/jwplayer/.*','ig'),
       "decision" : new RegExp('vast.*.btrll.com','ig'),
-      "video" : new RegExp('.*brxcdn.*.btrll.com/production/.*(flv|mpeg|mpg|mov|mp4|webm)','ig'),
+      "video" : [
+        new RegExp('.*brxcdn.*.btrll.com/production/.*(flv|mpeg|mpg|mov|mp4|webm)','ig')
+      ],
       "companion" : new RegExp('.*brxcdn.*.btrll.com/production/.*(jpg|jpeg|png|gif)','ig'),
       "metrics" : new RegExp('brxserv.*.btrll.com','ig')
     }
@@ -90,7 +92,10 @@ platform['adx'] = {
   "lifecycle" : {
       "player" : "",
       "decision" : "",
-      "video" : new RegExp('.*2mdn.net/videoplayback/.*(flv|mpeg|mpg|mov|mp4|webm)','ig'),
+      "video" : [
+        new RegExp('.*2mdn.net/videoplayback/.*(flv|mpeg|mpg|mov|mp4|webm)','ig'),
+        new RegExp('.*//ad.doubleclick.net/.*','ig')
+      ],
       "companion" : "",
       "metrics" : ""
     }
@@ -104,7 +109,9 @@ platform['tremor'] = {
   "lifecycle" : {
       "player" : "",
       "decision" : "",
-      "video" : new RegExp('.*scanscout.com/.*(flv|mpeg|mpg|mov|mp4|webm)','ig'),
+      "video" : [
+        new RegExp('.*scanscout.com/.*(flv|mpeg|mpg|mov|mp4|webm)','ig')
+      ],
       "companion" : "",
       "metrics" : ""
     }
@@ -121,7 +128,9 @@ platform['sizmek'] = {
   "lifecycle" : {
       "player" : "",
       "decision" : "",
-      "video" : new RegExp('.*serving-sys.com/.*(flv|mpeg|mpg|mov|mp4|webm)','ig'),
+      "video" : [
+        new RegExp('.*serving-sys.com/.*(flv|mpeg|mpg|mov|mp4|webm)','ig')
+      ],
       "companion" : "",
       "metrics" : ""
     }
@@ -134,7 +143,9 @@ platform['vindico'] = {
   "lifecycle" : {
       "player" : "",
       "decision" : "",
-      "video" : new RegExp('.*vindico.*(flv|mpeg|mpg|mov|mp4|webm)'),
+      "video" : [
+        new RegExp('.*vindico.*(flv|mpeg|mpg|mov|mp4|webm)')
+      ],
       "companion" : "",
       "metrics" : ""
     }
@@ -167,8 +178,10 @@ function onBeforeRequest(url, type, page, frame)
 
   for (var handle in platform) {
     var p = platform[handle];
-    if (p.lifecycle.video.test(url)) {
-      notifyAdtribution(p, url);
+    for (var i = 0; i < p.lifecycle.video.length; i++) {      
+      if (p.lifecycle.video[i].test(url)) {
+        notifyAdtribution(p, url);
+      }
     }
   }
 
